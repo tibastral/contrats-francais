@@ -9,8 +9,6 @@ mon client actuel.
 
 N'hésitez pas à me faire des retours (soit pas pull request, soit par DM)
 
-Ces contrats sont sous licence MIT (voire MIT-LICENCE).
-
 En espérant vous avoir été utile !
 
 ## Utilisation
