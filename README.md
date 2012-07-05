@@ -9,8 +9,7 @@ mon client actuel.
 
 N'hésitez pas à me faire des retours (soit pas pull request, soit par DM)
 
-Il y a une licence libre sur ces contrats.
-Vous pouvez donc les utiliser comme bon vous semble !
+Ces contrats sont sous licence MIT (voire MIT-LICENCE).
 
 En espérant vous avoir été utile !
 
@@ -36,4 +35,11 @@ potentiellement de les faire valider / refactor par un avocat si vous
 pensez qu'ils ne sont pas adaptées à vos besoins.
 
 
+## Crédits
+
 you should follow me on twitter : [@tibastral](http://twitter.com/tibastral)
+
+L'avocat avec qui j'ai travaillé pour rédiger ces contrats est Étienne
+Deshoulières, un excellent avocat qui connait très bien son métier.
+Si vous avez besoin d'un bon avocat sur Paris n'hésitez pas à le contacter
+[http://www.deshoulieres-avocat.com](http://www.deshoulieres-avocat.com)
