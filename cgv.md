@@ -19,7 +19,7 @@ privé ou de droit public, contractant avec _NomSociété_ pour la réalisation
 d’un Livrable,
 
 Ci-après « le Client », 
-D'autre part,
+D’autre part,
 
 
 ## Article 1. Documents contractuels
@@ -32,9 +32,9 @@ suivants :
 * Icebox
 * Conditions générales de vente
 
-Ils constituent l'intégralité des obligations des parties. En cas de
+Ils constituent l’intégralité des obligations des parties. En cas de
 contradiction entre les différents éléments, le document le mieux classé dans
-l'ordre de priorité prévaudra.
+l’ordre de priorité prévaudra.
 
 
 ## Article 2. Définitions 
@@ -68,7 +68,7 @@ du Livrable est livrée par _NomSociété_ au Client.
 
 ## Article 3. Objet du contrat 
 
-Par le présent contrat, _NomSociété_ s'engage à concevoir et à réaliser pour
+Par le présent contrat, _NomSociété_ s’engage à concevoir et à réaliser pour
 le compte du Client un Livrable conformément à la méthode Agile
 (http://agilemanifesto.org/iso/fr/).
 
@@ -79,19 +79,19 @@ le compte du Client un Livrable conformément à la méthode Agile
 
 _NomSociété_ s’engage à concevoir et à réaliser un Livrable fonctionnel par
 Itérations successives. Il devra ainsi apporter les solutions techniques
-permettant de concrétiser l'architecture du Livrable et d'en assurer le bon
+permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
 fonctionnement.
 
 _NomSociété_ est soumis à une obligation de moyens. _NomSociété_ pourra
 sous-traiter tout ou partie de la prestation.
 
 Sauf stipulation contraire dans les Conditions particulières, _NomSociété_
-n'est soumis à aucune obligation de maintenance ou d'assistance à
-l'utilisation.
+n’est soumis à aucune obligation de maintenance ou d’assistance à
+l’utilisation.
 
 ### 4.2. Obligations du Client
 
-Le Client s'engage à fournir à _NomSociété_ les Eléments apportés. Il est
+Le Client s’engage à fournir à _NomSociété_ les Eléments apportés. Il est
 précisé à ce titre, sauf mention contraire dans les Conditions particulières,
 que la rédaction des textes et la saisie du contenu administrable est à la
 charge exclusive du Client.
@@ -137,7 +137,7 @@ la charge de travail est suffisante pour l’Itération.
 Lors d’un bref entretien quotidien (environ 10 minutes), les parties font le
 point sur l’état d’avancement et les problèmes rencontrés.
 
-Aux termes de l'Itération, le Livrable est livré au Client et réceptionné
+Aux termes de l’Itération, le Livrable est livré au Client et réceptionné
 conformément à l’article 7 des présentes.
 
 A l’issue de l’Itération, un bilan est effectué entre les parties, afin de
@@ -181,7 +181,7 @@ valide le Livrable ou émet des réserves sur celui-ci.
 Si le Client émet des réserves dans le délai précité, _NomSociété_ procèdera
 aux Corrections du Livrable, à l’exclusion de toute Evolution.
 
-Si le Client n'a émis aucune réserve dans le délai précité, le Livrable soumis
+Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
 au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 
 
@@ -189,7 +189,7 @@ au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 
 ### 7.1. Limitation de responsabilité
 
-_NomSociété_ n’est pas responsable des dommages que l'installation du Livrable
+_NomSociété_ n’est pas responsable des dommages que l’installation du Livrable
 pourrait causer aux serveurs et matériels informatiques du Client.
 
 Dans l’hypothèse où le Client réaliserait lui-même une Evolution ou en
@@ -213,7 +213,7 @@ La responsabilité de _NomSociété_ est limitée au préjudice direct, personne
 et certain subi par le Client et lié à la défaillance en cause. _NomSociété_
 ne pourra en aucun cas être tenue responsable des dommages indirects tels que,
 notamment, les pertes de données, les préjudices commerciaux, les pertes de
-commandes, les atteintes à l'image de marque, les troubles commerciaux et les
+commandes, les atteintes à l’image de marque, les troubles commerciaux et les
 pertes de bénéfices ou de clients. Le montant des dommages et intérêts mis à
 la charge de _NomSociété_ ne pourra excéder le montant du prix total du
 Livrable, tel qu’indiqué dans les Conditions particulières.
@@ -231,13 +231,13 @@ _NomSociété_ n’engagera pas sa responsabilité en cas de force majeure ou de
 faute du Client, telles que définies ci-après :
 
 Sera considéré comme un cas de force majeure opposable au Client tout
-empêchement, limitation ou dérangement du fait d'incendie, d’épidémie,
+empêchement, limitation ou dérangement du fait d’incendie, d’épidémie,
 d’explosion, de tremblement de terre, de fluctuations de la bande passante, de
-manquement imputable au fournisseur d'accès, de défaillance des réseaux de
+manquement imputable au fournisseur d’accès, de défaillance des réseaux de
 transmission, d’effondrement des installations, d’utilisation illicite ou
 frauduleuse des mots de passe, codes ou références fournis au Client, de
 piratage informatique, d’une faille de sécurité imputable à l’hébergeur du
-Site, d’inondation, de panne d'électricité, de guerre, d’embargo, de loi,
+Site, d’inondation, de panne d’électricité, de guerre, d’embargo, de loi,
 d’injonction, de demande ou d’exigence de tout gouvernement, de réquisition,
 de grève, de boycott, ou autres circonstances hors du contrôle raisonnable de
 _NomSociété_.
@@ -263,7 +263,7 @@ l’existence matérielle des droits cédés.
 ### 8.2. Garanties du Client 
 
 Le Client déclare être titulaire de tous les droits et autorisations
-permettant l'utilisation des Eléments apportés aux fins des présentes. Il
+permettant l’utilisation des Eléments apportés aux fins des présentes. Il
 garantit _NomSociété_ contre toute action et revendication de tiers du fait
 des Eléments apportés.
 
@@ -291,12 +291,12 @@ Le Livrable est composé le cas échéant :
 ### 9.2. Licence exclusive sur le Livrable
 
 A défaut de mention contraire dans les Conditions particulières, _NomSociété_
-consent au Client à titre exclusif une licence portant sur l'intégralité des
+consent au Client à titre exclusif une licence portant sur l’intégralité des
 droits patrimoniaux sur les développements spécifiques, et notamment sur les
-droits d'exploitation, de reproduction, de représentation, d'édition, de
+droits d’exploitation, de reproduction, de représentation, d’édition, de
 commercialisation, de traduction dont il est titulaire, pour toute la durée de
 protection des droits de propriété intellectuelle et pour le monde entier, par
-tout procédé, quel qu'il soit, connu ou inconnu à ce jour, et notamment par
+tout procédé, quel qu’il soit, connu ou inconnu à ce jour, et notamment par
 tous les réseaux de communication, actuels et futurs, et ce sur tout support,
 en tout format.
 
@@ -324,7 +324,7 @@ cours de son exploitation. S’il s’agit d’un site web, le nom de _GÉRANT_
 apparaîtra :
 
 sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
-» accessible depuis la page d'accueil du site et comportant un lien hypertexte
+» accessible depuis la page d’accueil du site et comportant un lien hypertexte
 vers www._NomSociété_.com ;
 
 dans le header du code html des pages web du site sous la balise « Creator ».
@@ -378,13 +378,13 @@ intérêt conformément aux dispositions légales en vigueur.
 
 En cas de demandes de la part du Client entrainant une charge de travail
 supplémentaire pour _NomSociété_, les parties conviendront, avant toute
-modification du Plan de travail ou du Cahier des charges, du versement d'une
+modification du Plan de travail ou du Cahier des charges, du versement d’une
 somme supplémentaire au profit de _NomSociété_.
 
 
 ## Article 13. Références
 
-Sauf interdiction expresse du Client dans un délai d'un mois à compter de la
+Sauf interdiction expresse du Client dans un délai d’un mois à compter de la
 réception du Livrable, _NomSociété_ est autorisé à utiliser le nom du Client,
 ainsi que l’image de la page d’accueil du Livrable, dans le cadre de sa
 promotion commerciale et publicitaire.
@@ -392,7 +392,7 @@ promotion commerciale et publicitaire.
 
 ## Article 14. Réserve de propriété
 
-_NomSociété_ se réserve expressément la propriété du Livrable jusqu'au
+_NomSociété_ se réserve expressément la propriété du Livrable jusqu’au
 paiement intégral de son prix en principal et intérêts. Le Client en deviendra
 toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
@@ -400,10 +400,10 @@ celui des risques.
 
 ## Article 15. Non-sollicitation 
 
-Afin de garantir l'équilibre économique du Contrat, le Client s'engage à ne
-pas embaucher, tenter d'embaucher ou faire travailler directement ou
+Afin de garantir l’équilibre économique du Contrat, le Client s’engage à ne
+pas embaucher, tenter d’embaucher ou faire travailler directement ou
 indirectement un salarié, un collaborateur ou un sous-traitant de _NomSociété_
-durant l'exécution du présent contrat et jusqu’à 5 ans après la réception du
+durant l’exécution du présent contrat et jusqu’à 5 ans après la réception du
 Livrable.
 
 En cas de non-respect de cette clause, le Client devra verser à _NomSociété_ à
@@ -414,15 +414,15 @@ _NomSociété_ stipulée dans les Conditions particulières.
 
 ## Article 16. Résiliation 
 
-En cas de manquement grave de l'une ou l'autre des parties aux obligations du
+En cas de manquement grave de l’une ou l’autre des parties aux obligations du
 présent contrat non réparé dans un délai de 15 jours à compter de la
 présentation de la lettre recommandée avec accusé de réception notifiant ledit
 manquement, le présent contrat sera résilié de plein droit sans préjudice des
 dommages et intérêts auxquels les parties pourraient prétendre.
 
-Le fait pour une des parties de ne pas se prévaloir d'un manquement par
-l'autre partie à l'une quelconque des obligations visées dans les présentes ne
-saurait être interprété pour l'avenir comme une renonciation à l'obligation en
+Le fait pour une des parties de ne pas se prévaloir d’un manquement par
+l’autre partie à l’une quelconque des obligations visées dans les présentes ne
+saurait être interprété pour l’avenir comme une renonciation à l’obligation en
 cause.
 
 
@@ -431,7 +431,7 @@ cause.
 Le présent contrat est soumis à la loi française. 
 
 En cas de litige, la compétence exclusive est attribuée aux tribunaux de
-Paris, même pour les procédures d'urgence ou conservatoire en référé ou par
+Paris, même pour les procédures d’urgence ou conservatoire en référé ou par
 requête, nonobstant pluralité de défendeurs ou appel en garantie.
 
 
