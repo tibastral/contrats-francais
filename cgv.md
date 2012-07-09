@@ -1,7 +1,7 @@
 # Conditions Générales de vente de _NomSociété_ Applicables à compter du 1er  janvier 2011
 
 
-ENTRE LES SOUSSIGNES 
+ENTRE LES SOUSSIGNÉS 
 
 _NomSociété_, Entreprise Unipersonnelle à Responsabilité Limitée au capital de
 1500 €, enregistrée au RCS de Paris sous n° _RCS_, dont le siège social est
@@ -53,11 +53,11 @@ de cas simples et factuels.
 Correction : Toute correction d’erreur sur le Livrable, n’ayant pas d’autre
 finalité que de corriger des dysfonctionnements ou des erreurs.
 
-Elément apporté : contenu de toute nature (codes, textes, images, sons…)
+Élément apporté : contenu de toute nature (codes, textes, images, sons…)
 inséré dans le Livrable, soit par _NomSociété_ à la demande du Client, soit
 par le Client lui-même.
 
-Evolution : Toute modification, évolution, adaptation, adjonction,
+Évolution : Toute modification, évolution, adaptation, adjonction,
 suppression, traduction, nouvelle version, ne constituant pas une simple
 Correction.
 
@@ -91,7 +91,7 @@ l’utilisation.
 
 ### 4.2. Obligations du Client
 
-Le Client s’engage à fournir à _NomSociété_ les Eléments apportés. Il est
+Le Client s’engage à fournir à _NomSociété_ les Éléments apportés. Il est
 précisé à ce titre, sauf mention contraire dans les Conditions particulières,
 que la rédaction des textes et la saisie du contenu administrable est à la
 charge exclusive du Client.
@@ -140,7 +140,7 @@ point sur l’état d’avancement et les problèmes rencontrés.
 Aux termes de l’Itération, le Livrable est livré au Client et réceptionné
 conformément à l’article 7 des présentes.
 
-A l’issue de l’Itération, un bilan est effectué entre les parties, afin de
+À l’issue de l’Itération, un bilan est effectué entre les parties, afin de
 savoir si une nouvelle Itération est nécessaire pour la mise en production du
 Livrable.
 
@@ -151,13 +151,13 @@ Dans ce cadre, _NomSociété_ s’engage à concevoir un Livrable selon la méth
 classique de développement, dite Waterfall. Le développement complet du
 Livrable se déroulera alors en deux étapes.
 
-#### 6.1. Etape 1 – Conception du Livrable
+#### 6.1. Étape 1 – Conception du Livrable
 
 Suite à la remise par le Client des informations nécessaires à la réalisation
 du Livrable, _NomSociété_ établira l’architecture du Livrable, en tenant
 compte, le cas échéant, du cahier des charges fourni par le Client.
 
-#### 6.2 Etape 2 – Réalisation du Livrable
+#### 6.2 Étape 2 – Réalisation du Livrable
 
 Suite à la validation de l’architecture par le Client, _NomSociété_ procédera
 à la réalisation du Livrable. Au terme de la phase de développement, le
@@ -174,12 +174,12 @@ Conditions particulières.
 
 ## Article 6. Procédure de réception 
 
-A la fin de chacune des phases de développement, _NomSociété_ livre au Client
+À la fin de chacune des phases de développement, _NomSociété_ livre au Client
 un Livrable. Dans un délai de 1 semaine à compter de la livraison, le Client
 valide le Livrable ou émet des réserves sur celui-ci.
 
 Si le Client émet des réserves dans le délai précité, _NomSociété_ procédera
-aux Corrections du Livrable, à l’exclusion de toute Evolution.
+aux Corrections du Livrable, à l’exclusion de toute Évolution.
 
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
 au Client est considéré comme étant tacitement réceptionnée par celui-ci.
@@ -192,10 +192,10 @@ au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 _NomSociété_ n’est pas responsable des dommages que l’installation du Livrable
 pourrait causer aux serveurs et matériels informatiques du Client.
 
-Dans l’hypothèse où le Client réaliserait lui-même une Evolution ou en
+Dans l’hypothèse où le Client réaliserait lui-même une Évolution ou en
 confierait la réalisation à un tiers, _NomSociété_ ne sera plus en mesure de
 prendre en charge les Corrections du Livrable. _NomSociété_ exclut par
-ailleurs toute responsabilité au titre des Evolutions apportées par le Client
+ailleurs toute responsabilité au titre des Évolutions apportées par le Client
 ou un tiers au Livrable.
 
 La réception du Livrable par le Client couvre les défauts de conformité
@@ -255,7 +255,7 @@ _NomSociété_.
 _NomSociété_ garantit au Client que le Livrable sera achevé et livré
 conformément aux documents contractuels.
 
-A défaut de mention contraire dans les Conditions particulières concernant la
+À défaut de mention contraire dans les Conditions particulières concernant la
 licence de droit de propriété intellectuelle, _NomSociété_ ne donne pas
 d’autre garantie que celle de l’éviction de son fait personnel et de
 l’existence matérielle des droits cédés.
@@ -263,9 +263,9 @@ l’existence matérielle des droits cédés.
 ### 8.2. Garanties du Client 
 
 Le Client déclare être titulaire de tous les droits et autorisations
-permettant l’utilisation des Eléments apportés aux fins des présentes. Il
+permettant l’utilisation des Éléments apportés aux fins des présentes. Il
 garantit _NomSociété_ contre toute action et revendication de tiers du fait
-des Eléments apportés.
+des Éléments apportés.
 
 
 ## Article 9. Propriété intellectuelle 
@@ -282,15 +282,15 @@ Le Livrable est composé le cas échéant :
   investi des droits sur les développements spécifiques conformément à
   l’article 9.2 des présentes conditions générales ;
 
-* des Eléments apportés : contenus de toute nature (codes, textes, images,
+* des Éléments apportés : contenus de toute nature (codes, textes, images,
   sons…) insérés dans le Livrable, soit par _NomSociété_ à la demande du
   Client, soit par le Client lui-même. Le Client reste titulaire des droits
-  sur les Eléments apportés qu’il met à la disposition de _NomSociété_ pour la
+  sur les Éléments apportés qu’il met à la disposition de _NomSociété_ pour la
   réalisation de la prestation.
 
 ### 9.2. Licence exclusive sur le Livrable
 
-A défaut de mention contraire dans les Conditions particulières, _NomSociété_
+À défaut de mention contraire dans les Conditions particulières, _NomSociété_
 consent au Client à titre exclusif une licence portant sur l’intégralité des
 droits patrimoniaux sur les développements spécifiques, et notamment sur les
 droits d’exploitation, de reproduction, de représentation, d’édition, de
@@ -304,7 +304,7 @@ S’il s’agit de logiciel, la présente licence porte sur le code objet, le co
 source et la documentation du logiciel, _NomSociété_ autorisant le Client à
 accéder aux codes du logiciel.
 
-A défaut de mention contraire dans les Conditions particulières, le Client ne
+À défaut de mention contraire dans les Conditions particulières, le Client ne
 pourra pas consentir de sous-licences sur les développements spécifiques.
 
 ### 9.3. Rémunération au titre de la licence
@@ -318,7 +318,7 @@ celles stipulées dans les Conditions particulières.
 
 ### 9.4. Droit de paternité 
 
-A défaut de mention contraire dans les conditions particulières, le nom de
+À défaut de mention contraire dans les conditions particulières, le nom de
 _GÉRANT_, auteur originaire du Logiciel, devra être associé au Livrable au
 cours de son exploitation. S’il s’agit d’un site web, le nom de _GÉRANT_
 apparaîtra :
@@ -331,7 +331,7 @@ dans le header du code html des pages web du site sous la balise « Creator ».
 
 ### 9.5. Actions en justice
 
-A défaut de mention contraire dans les conditions particulières, seule
+À défaut de mention contraire dans les conditions particulières, seule
 _NomSociété_ aura qualité pour exercer les actions en contrefaçon et
 concurrence déloyale relatives aux exploitations non autorisées des
 développements spécifiques.
@@ -342,12 +342,12 @@ pour exercer les actions en contrefaçon et concurrence déloyale relatives aux
 exploitations non autorisées des développements spécifiques.
 
 
-## Article 10. Evolution - Maintenance
+## Article 10. Évolution - Maintenance
 
-_NomSociété_ autorise le Client à effectuer lui-même des Evolutions du
+_NomSociété_ autorise le Client à effectuer lui-même des Évolutions du
 Livrable et à en assurer la maintenance.
 
-Toutefois, si le Client souhaite confier les Evolutions ou la maintenance du
+Toutefois, si le Client souhaite confier les Évolutions ou la maintenance du
 Livrable à un prestataire, le Client s’engage à proposer en priorité la prise
 en charge de cette prestation à _NomSociété_, qui s’engage en contrepartie à
 proposer au Client des conditions tarifaires similaires à celles consenties
@@ -361,7 +361,7 @@ aux termes du présent contrat.
 Le taux horaire ou journalier est celui convenu dans les Conditions
 particulières.
 
-A défaut de stipulation contraire dans les Conditions particulières, le
+À défaut de stipulation contraire dans les Conditions particulières, le
 paiement interviendra avant le commencement de chacune des Itérations
 
 ### 12.2. Rabais – Remise - Ristourne
