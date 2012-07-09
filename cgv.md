@@ -356,7 +356,7 @@ aux termes du présent contrat.
 
 ## Article 11. Prix et modalités de paiement 
 
-### 12.1. Prix
+### 11.1. Prix
 
 Le taux horaire ou journalier est celui convenu dans les Conditions
 particulières.
@@ -364,17 +364,17 @@ particulières.
 À défaut de stipulation contraire dans les Conditions particulières, le
 paiement interviendra avant le commencement de chacune des Itérations
 
-### 12.2. Rabais – Remise - Ristourne
+### 11.2. Rabais – Remise - Ristourne
 
 Sauf accord exprès des Parties, aucun rabais, remise, ristourne ou escompte ne
 sera accordé au Client.
 
-### 12.3. Intérêts en cas de retard 
+### 11.3. Intérêts en cas de retard 
 
 En cas de non-paiement à son échéance, toute somme due portera automatiquement
 intérêt conformément aux dispositions légales en vigueur.
 
-### 12.4. Rémunération supplémentaire 
+### 11.4. Rémunération supplémentaire 
 
 En cas de demandes de la part du Client entraînant une charge de travail
 supplémentaire pour _NomSociété_, les parties conviendront, avant toute
@@ -382,7 +382,7 @@ modification du Plan de travail ou du Cahier des charges, du versement d’une
 somme supplémentaire au profit de _NomSociété_.
 
 
-## Article 13. Références
+## Article 12. Références
 
 Sauf interdiction expresse du Client dans un délai d’un mois à compter de la
 réception du Livrable, _NomSociété_ est autorisé à utiliser le nom du Client,
@@ -390,7 +390,7 @@ ainsi que l’image de la page d’accueil du Livrable, dans le cadre de sa
 promotion commerciale et publicitaire.
 
 
-## Article 14. Réserve de propriété
+## Article 13. Réserve de propriété
 
 _NomSociété_ se réserve expressément la propriété du Livrable jusqu’au
 paiement intégral de son prix en principal et intérêts. Le Client en deviendra
@@ -398,7 +398,7 @@ toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
 
 
-## Article 15. Non-sollicitation 
+## Article 14. Non-sollicitation 
 
 Afin de garantir l’équilibre économique du Contrat, le Client s’engage à ne
 pas embaucher, tenter d’embaucher ou faire travailler directement ou
@@ -412,7 +412,7 @@ auxquels pourrait prétendre _NomSociété_, une somme égale à la rémunérati
 _NomSociété_ stipulée dans les Conditions particulières.
 
 
-## Article 16. Résiliation 
+## Article 15. Résiliation 
 
 En cas de manquement grave de l’une ou l’autre des parties aux obligations du
 présent contrat non réparé dans un délai de 15 jours à compter de la
@@ -426,7 +426,7 @@ saurait être interprété pour l’avenir comme une renonciation à l’obligat
 cause.
 
 
-## Article 17. Loi applicable et juridiction compétente 
+## Article 16. Loi applicable et juridiction compétente 
 
 Le présent contrat est soumis à la loi française. 
 
