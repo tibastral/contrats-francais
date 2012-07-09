@@ -100,7 +100,7 @@ Le Client s’engage à réagir dans un délai de 3 jours à partir de la mise e
 demeure au plus tard à toute demande de _NomSociété_ relative à la réalisation
 du Livrable. Le Client reconnaît que son implication et sa collaboration sont
 nécessaires pour la bonne exécution du contrat. Tout retard ou défaut de
-diligence du Client pourra entrainer un report de livraison de _NomSociété_
+diligence du Client pourra entraîner un report de livraison de _NomSociété_
 supérieur d’une semaine à la durée dudit retard ou défaut de diligence, sans
 que ce report ne puisse constituer une faute de _NomSociété_ ou un préjudice
 pour le Client.
@@ -178,7 +178,7 @@ A la fin de chacune des phases de développement, _NomSociété_ livre au Client
 un Livrable. Dans un délai de 1 semaine à compter de la livraison, le Client
 valide le Livrable ou émet des réserves sur celui-ci.
 
-Si le Client émet des réserves dans le délai précité, _NomSociété_ procèdera
+Si le Client émet des réserves dans le délai précité, _NomSociété_ procédera
 aux Corrections du Livrable, à l’exclusion de toute Evolution.
 
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
@@ -193,7 +193,7 @@ _NomSociété_ n’est pas responsable des dommages que l’installation du Livr
 pourrait causer aux serveurs et matériels informatiques du Client.
 
 Dans l’hypothèse où le Client réaliserait lui-même une Evolution ou en
-confirait la réalisation à un tiers, _NomSociété_ ne sera plus en mesure de
+confierait la réalisation à un tiers, _NomSociété_ ne sera plus en mesure de
 prendre en charge les Corrections du Livrable. _NomSociété_ exclut par
 ailleurs toute responsabilité au titre des Evolutions apportées par le Client
 ou un tiers au Livrable.
@@ -376,7 +376,7 @@ intérêt conformément aux dispositions légales en vigueur.
 
 ### 12.4. Rémunération supplémentaire 
 
-En cas de demandes de la part du Client entrainant une charge de travail
+En cas de demandes de la part du Client entraînant une charge de travail
 supplémentaire pour _NomSociété_, les parties conviendront, avant toute
 modification du Plan de travail ou du Cahier des charges, du versement d’une
 somme supplémentaire au profit de _NomSociété_.
