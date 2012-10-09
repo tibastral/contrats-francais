@@ -89,11 +89,11 @@ Poser la question pourquoi récursivement 5 fois (au maximum) jusqu'à avoir une
 
 # Exemple d'histoire utilisateurs : on se propose de gérer un chenil (des chiens, des naissances, etc.)
 
-        @@@ cucumber
-        Feature: handle a kenel
-          In order to handle our kenel
-          As a dog trainer
-          I want to be able to relate born dogs
+    @@@ cucumber
+    Feature: handle a kenel
+      In order to handle our kenel
+      As a dog trainer
+      I want to be able to relate born dogs
 
 ## Application de gestion de chenil
 
@@ -104,10 +104,11 @@ Poser la question pourquoi récursivement 5 fois (au maximum) jusqu'à avoir une
 
 ## En cucumber on va écrire ça de la façon suivante :
 
-        @@@ cucumber
-        Given 1 dog and 1 bitch in a kennel
-        When the 2 dogs have a child
-        Then the kennel should have 3 inhabitants
+    @@@ cucumber
+    Scenario
+      Given 1 dog and 1 bitch in a kennel
+      When the 2 dogs have a child
+      Then the kennel should have 3 inhabitants
 
 ## Ces scénarios n'ayant pas grand chose à voir avec quelque chose de monétisable, nous n'allons donc pas les coder.
 En effet, nous ne sommes pas une communauté de dresseurs, et nous gagnerions
