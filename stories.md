@@ -105,7 +105,7 @@ Poser la question pourquoi récursivement 5 fois (au maximum) jusqu'à avoir une
 ## En cucumber on va écrire ça de la façon suivante :
 
     @@@ cucumber
-    Scenario
+    Scenario:
       Given 1 dog and 1 bitch in a kennel
       When the 2 dogs have a child
       Then the kennel should have 3 inhabitants
