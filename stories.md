@@ -111,6 +111,7 @@ Poser la question pourquoi récursivement 5 fois (au maximum) jusqu'à avoir une
       Then the kennel should have 3 inhabitants
 
 ## Ces scénarios n'ayant pas grand chose à voir avec quelque chose de monétisable, nous n'allons donc pas les coder.
+
 En effet, nous ne sommes pas une communauté de dresseurs, et nous gagnerions
 plus à travailler sur un projet qui pourrait nous être utile...
 
@@ -144,7 +145,8 @@ plus à travailler sur un projet qui pourrait nous être utile...
 
 ## la méthode de travail associée à cucumber passe par 3 étapes de développement : Red, Green et Refactor
 
-* Quand on lance notre premier test, on commence par avoir du jaune, le jaune correspond à des étapes non définies
+* Quand on lance notre premier test, on commence par avoir du jaune, le jaune
+  correspond à des étapes non définies
 * On va coder ce à quoi correspondent ces étapes
 
 ### red
@@ -153,7 +155,7 @@ plus à travailler sur un projet qui pourrait nous être utile...
 
 ### green
 
-On code juste assez pour faire passer ce test. On ne fait pas d'optimisation de
+* On code juste assez pour faire passer ce test. On ne fait pas d'optimisation de
 code. On se concentre vraiment sur le fait de faire passer le test. Quand on
 relance le test, celui-ci passe (il est alors vert)
 
