@@ -12,10 +12,10 @@ développements spécifiques
 
 ## Prix - Paiement
 
-Le taux horaire de _NomSociété_ s’élève à 750 euros HT / jour. _NomSociété_
-propose donc ses services pour 20 jours de prestation.
+Le taux horaire de _NomSociété_ s’élève à 130 euros HT / heure. _NomSociété_
+propose donc ses services pour 50 heures de prestation.
 
-Le client s’engage à payer 7500 euros HT soit 8970 euros TTC avant
+Le client s’engage à payer 6500 euros HT soit 7774 euros TTC avant
 l’intervention.
 
 Le paiement des prestations interviendra par virement sur le compte bancaire
