@@ -218,7 +218,7 @@ pertes de bénéfices ou de clients. Le montant des dommages et intérêts mis �
 la charge de _NomSociété_ ne pourra excéder le montant du prix total du
 Livrable, tel qu’indiqué dans les Conditions particulières.
 
-Aux termes de chaque Itération, _NomSociété_ conserve sont entière liberté de
+Aux termes de chaque Itération, _NomSociété_ conserve son entière liberté de
 poursuivre ou de ne pas poursuivre le projet avec le Client. _NomSociété_
 pourra en conséquence arrêter les développements après chaque livraison d’une
 Itération, sans que cela ne constitue une faute de _NomSociété_ ou un
