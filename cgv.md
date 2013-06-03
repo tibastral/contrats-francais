@@ -9,8 +9,8 @@ sis _ADRESSE_, représentée aux fins des présentes par _GÉRANT_ en qualité d
 gérant,
 
 
-Ci-après dénommée « _NomSociété_ »,
-D’autre part,
+Ci-après dénommée « _NomSociété_ »,  
+D’une part,
 
 ET : 
 
@@ -18,7 +18,7 @@ Toute personne physique ou morale, particulier ou professionnel, de droit
 privé ou de droit public, contractant avec _NomSociété_ pour la réalisation
 d’un Livrable,
 
-Ci-après « le Client », 
+Ci-après « le Client »,  
 D’autre part,
 
 
