@@ -18,7 +18,7 @@ Toute personne physique ou morale, particulier ou professionnel, de droit
 privé ou de droit public, contractant avec _NomSociété_ pour la réalisation
 d’un Livrable,
 
-Ci-après « le Client »,  
+Ci-après « le Client »,
 D’autre part,
 
 
