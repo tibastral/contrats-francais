@@ -1,0 +1,27 @@
+{
+  "filename": "<%= moment().format('YYYY-MM-DD') %>-contrat-<%= client %>"
+, "company": {
+    "name": "_NomSociété_"
+  , "description": "_Entreprise Unipersonnelle à Responsabilité Limitée au capital de 1500 €, enregistrée au RCS de Paris sous n° RCS, dont le siège social est sis ADDRESS, représentée aux fins des présentes par GÉRANT en qualité de gérant_"
+  , "director": "_Gérant_"
+  , "url": "http://url-nomsociete.com"
+  , "url_nice": "_url-NomSociété.com_"
+  , "hourly_rate": 130
+  , "hourly_rate_legend": "euros HT / heures"
+  }
+, "client": {
+    "description": "La société X, Société par actions simplifiée au capital de  Y euros, dont le siège social est sis PAR LÀ, immatriculée sous le n° Z, représentée par A,"
+  }
+, "contract": {
+    "duration": 50
+  , "duration_legend": "heures"
+  , "payment_novat": null
+  , "payment_novat_legend": "euros HT"
+  , "payment_vat": null
+  , "payment_vat_legend": "euros TTC"
+  }
+, "vat_rate": 0.196
+, "cgv": {
+    "startDate": "1er janvier 2013"
+  }
+}
