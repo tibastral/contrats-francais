@@ -1,22 +1,19 @@
-# Conditions Générales de vente de _NomSociété_ Applicables à compter du 1er  janvier 2011
+# Conditions Générales de vente de {{ company.name }} Applicables à compter du {{ cgv.startDate }}
 
 
 ENTRE LES SOUSSIGNÉS 
 
-_NomSociété_, Entreprise Unipersonnelle à Responsabilité Limitée au capital de
-1500 €, enregistrée au RCS de Paris sous n° _RCS_, dont le siège social est
-sis _ADRESSE_, représentée aux fins des présentes par _GÉRANT_ en qualité de
-gérant,
+{{ company.name }}, {{ company.description }},
 
-
-Ci-après dénommée « _NomSociété_ »,
+Ci-après dénommée « {{ company.name }} »,
 D’autre part,
 
 ET : 
 
 Toute personne physique ou morale, particulier ou professionnel, de droit
-privé ou de droit public, contractant avec _NomSociété_ pour la réalisation
+privé ou de droit public, contractant avec {{ company.name }} pour la réalisation
 d’un Livrable,
+
 
 Ci-après « le Client », 
 D’autre part,
@@ -39,12 +36,12 @@ l’ordre de priorité prévaudra.
 
 ## Article 2. Définitions 
 
-Livrable : Version fonctionnel d’un site web, logiciel, éléments graphiques,
-éditoriaux ou autres, livrés par _NomSociété_ au Client à l’issue de chaque
+Livrable : Version fonctionnelle d’un site web, logiciel, éléments graphiques,
+éditoriaux ou autres, livrés par {{ company.name }} au Client à l’issue de chaque
 Itération.
 
-Backlog : document contractuel par lequel _NomSociété_ reformule l’Icebox en
-termes de fonctionnalités techniques auxquels un indice de difficulté est
+Backlog : document contractuel par lequel {{ company.name }} reformule l’Icebox en
+termes de fonctionnalités techniques auxquelles un indice de difficulté est
 associé.
 
 Icebox : spécifications fonctionnelles définies par le Client, sous la forme
@@ -54,7 +51,7 @@ Correction : Toute correction d’erreur sur le Livrable, n’ayant pas d’autr
 finalité que de corriger des dysfonctionnements ou des erreurs.
 
 Élément apporté : contenu de toute nature (codes, textes, images, sons…)
-inséré dans le Livrable, soit par _NomSociété_ à la demande du Client, soit
+inséré dans le Livrable, soit par {{ company.name }} à la demande du Client, soit
 par le Client lui-même.
 
 Évolution : Toute modification, évolution, adaptation, adjonction,
@@ -62,47 +59,47 @@ suppression, traduction, nouvelle version, ne constituant pas une simple
 Correction.
 
 Itération : Cycle de développement aux termes duquel une version fonctionnelle
-du Livrable est livrée par _NomSociété_ au Client.
+du Livrable est livrée par {{ company.name }} au Client.
 
 
 
 ## Article 3. Objet du contrat 
 
-Par le présent contrat, _NomSociété_ s’engage à concevoir et à réaliser pour
-le compte du Client un Livrable conformément à la méthode Agile
-(http://agilemanifesto.org/iso/fr/).
+Par le présent contrat, {{ company.name }} s’engage à concevoir et à réaliser pour
+le compte du Client un Livrable conformément à la
+[méthode Agile](http://agilemanifesto.org/iso/fr/).
 
 
 ## Article 4. Obligations des parties 
 
-### 4.1. Obligations de _NomSociété_ 
+### 4.1. Obligations de {{ company.name }} 
 
-_NomSociété_ s’engage à concevoir et à réaliser un Livrable fonctionnel par
+{{ company.name }} s’engage à concevoir et à réaliser un Livrable fonctionnel par
 Itérations successives. Il devra ainsi apporter les solutions techniques
 permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
 fonctionnement.
 
-_NomSociété_ est soumis à une obligation de moyens. _NomSociété_ pourra
+{{ company.name }} est soumis à une obligation de moyens. {{ company.name }} pourra
 sous-traiter tout ou partie de la prestation.
 
-Sauf stipulation contraire dans les Conditions particulières, _NomSociété_
+Sauf stipulation contraire dans les Conditions particulières, {{ company.name }}
 n’est soumis à aucune obligation de maintenance ou d’assistance à
 l’utilisation.
 
 ### 4.2. Obligations du Client
 
-Le Client s’engage à fournir à _NomSociété_ les Éléments apportés. Il est
+Le Client s’engage à fournir à {{ company.name }} les Éléments apportés. Il est
 précisé à ce titre, sauf mention contraire dans les Conditions particulières,
 que la rédaction des textes et la saisie du contenu administrable est à la
 charge exclusive du Client.
 
 Le Client s’engage à réagir dans un délai de 3 jours à partir de la mise en
-demeure au plus tard à toute demande de _NomSociété_ relative à la réalisation
+demeure au plus tard à toute demande de {{ company.name }} relative à la réalisation
 du Livrable. Le Client reconnaît que son implication et sa collaboration sont
 nécessaires pour la bonne exécution du contrat. Tout retard ou défaut de
-diligence du Client pourra entraîner un report de livraison de _NomSociété_
+diligence du Client pourra entraîner un report de livraison de {{ company.name }}
 supérieur d’une semaine à la durée dudit retard ou défaut de diligence, sans
-que ce report ne puisse constituer une faute de _NomSociété_ ou un préjudice
+que ce report ne puisse constituer une faute de {{ company.name }} ou un préjudice
 pour le Client.
 
 ## Article 5. Méthodes de travail
@@ -112,7 +109,7 @@ de travail suivantes :
 
 ### 5.1 Développements itératifs
 
-Dans le cadre de cette méthode de travail, _NomSociété_ s’engage à concevoir
+Dans le cadre de cette méthode de travail, {{ company.name }} s’engage à concevoir
 un Livrable conformément à la méthode Agile. Le développement du Livrable fait
 en conséquence l’objet de plusieurs Itérations.
 
@@ -124,12 +121,12 @@ jours ouvrés).
 Le Client définit les spécifications fonctionnelles du projet dans un document
 appelé Icebox.
 
-_NomSociété_ exprime ces spécifications fonctionnelles en terme de
-fonctionnalités techniques auxquels est associé un indice de difficulté, dans
+{{ company.name }} exprime ces spécifications fonctionnelles en terme de
+fonctionnalités techniques auxquelles est associé un indice de difficulté, dans
 un document appelé Backlog.
 
 Le Client détermine les priorités parmi les fonctionnalités techniques
-définies par _NomSociété_.
+définies par {{ company.name }}.
 
 Le cycle de développement peut commencer lorsque les parties considèrent que
 la charge de travail est suffisante pour l’Itération.
@@ -147,19 +144,19 @@ Livrable.
 
 ### 5.2 Développement planifié
 
-Dans ce cadre, _NomSociété_ s’engage à concevoir un Livrable selon la méthode
+Dans ce cadre, {{ company.name }} s’engage à concevoir un Livrable selon la méthode
 classique de développement, dite Waterfall. Le développement complet du
 Livrable se déroulera alors en deux étapes.
 
 #### 6.1. Étape 1 – Conception du Livrable
 
 Suite à la remise par le Client des informations nécessaires à la réalisation
-du Livrable, _NomSociété_ établira l’architecture du Livrable, en tenant
+du Livrable, {{ company.name }} établira l’architecture du Livrable, en tenant
 compte, le cas échéant, du cahier des charges fourni par le Client.
 
 #### 6.2 Étape 2 – Réalisation du Livrable
 
-Suite à la validation de l’architecture par le Client, _NomSociété_ procédera
+Suite à la validation de l’architecture par le Client, {{ company.name }} procédera
 à la réalisation du Livrable. Au terme de la phase de développement, le
 Livrable est livré au Client et réceptionné conformément à l’article 7 des
 présentes.
@@ -174,11 +171,11 @@ Conditions particulières.
 
 ## Article 6. Procédure de réception 
 
-À la fin de chacune des phases de développement, _NomSociété_ livre au Client
+À la fin de chacune des phases de développement, {{ company.name }} livre au Client
 un Livrable. Dans un délai de 1 semaine à compter de la livraison, le Client
 valide le Livrable ou émet des réserves sur celui-ci.
 
-Si le Client émet des réserves dans le délai précité, _NomSociété_ procédera
+Si le Client émet des réserves dans le délai précité, {{ company.name }} procédera
 aux Corrections du Livrable, à l’exclusion de toute Évolution.
 
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
@@ -189,45 +186,45 @@ au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 
 ### 7.1. Limitation de responsabilité
 
-_NomSociété_ n’est pas responsable des dommages que l’installation du Livrable
+{{ company.name }} n’est pas responsable des dommages que l’installation du Livrable
 pourrait causer aux serveurs et matériels informatiques du Client.
 
 Dans l’hypothèse où le Client réaliserait lui-même une Évolution ou en
-confierait la réalisation à un tiers, _NomSociété_ ne sera plus en mesure de
-prendre en charge les Corrections du Livrable. _NomSociété_ exclut par
+confierait la réalisation à un tiers, {{ company.name }} ne sera plus en mesure de
+prendre en charge les Corrections du Livrable. {{ company.name }} exclut par
 ailleurs toute responsabilité au titre des Évolutions apportées par le Client
 ou un tiers au Livrable.
 
 La réception du Livrable par le Client couvre les défauts de conformité
-apparents et les vices apparents. Toute action à l’encontre de _NomSociété_,
+apparents et les vices apparents. Toute action à l’encontre de {{ company.name }},
 notamment au titre d’un défaut de conformité caché ou d’un vice caché, est
 prescrite dans le délai d’un an à compter de la réception définitive du
 Livrable par le Client.
 
-_NomSociété_ exclut toute responsabilité au titre de la réservation ou de
+{{ company.name }} exclut toute responsabilité au titre de la réservation ou de
 l’utilisation d’un signe distinctif (nom de domaine, marque, titre, nom
 commercial, dénomination sociale…) à laquelle le Client lui aurait demandé de
 procéder.
 
-La responsabilité de _NomSociété_ est limitée au préjudice direct, personnel
-et certain subi par le Client et lié à la défaillance en cause. _NomSociété_
+La responsabilité de {{ company.name }} est limitée au préjudice direct, personnel
+et certain subi par le Client et lié à la défaillance en cause. {{ company.name }}
 ne pourra en aucun cas être tenue responsable des dommages indirects tels que,
 notamment, les pertes de données, les préjudices commerciaux, les pertes de
 commandes, les atteintes à l’image de marque, les troubles commerciaux et les
 pertes de bénéfices ou de clients. Le montant des dommages et intérêts mis à
-la charge de _NomSociété_ ne pourra excéder le montant du prix total du
+la charge de {{ company.name }} ne pourra excéder le montant du prix total du
 Livrable, tel qu’indiqué dans les Conditions particulières.
 
-Aux termes de chaque Itération, _NomSociété_ conserve son entière liberté de
-poursuivre ou de ne pas poursuivre le projet avec le Client. _NomSociété_
+Aux termes de chaque Itération, {{ company.name }} conserve son entière liberté de
+poursuivre ou de ne pas poursuivre le projet avec le Client. {{ company.name }}
 pourra en conséquence arrêter les développements après chaque livraison d’une
-Itération, sans que cela ne constitue une faute de _NomSociété_ ou un
+Itération, sans que cela ne constitue une faute de {{ company.name }} ou un
 préjudice pour le Client.
 
 
 ### 7.2. Force majeure et faute du client
 
-_NomSociété_ n’engagera pas sa responsabilité en cas de force majeure ou de
+{{ company.name }} n’engagera pas sa responsabilité en cas de force majeure ou de
 faute du Client, telles que définies ci-après :
 
 Sera considéré comme un cas de force majeure opposable au Client tout
@@ -240,23 +237,23 @@ piratage informatique, d’une faille de sécurité imputable à l’hébergeur 
 Site, d’inondation, de panne d’électricité, de guerre, d’embargo, de loi,
 d’injonction, de demande ou d’exigence de tout gouvernement, de réquisition,
 de grève, de boycott, ou autres circonstances hors du contrôle raisonnable de
-_NomSociété_.
+{{ company.name }}.
 
 Sera considérée comme une faute du Client opposable à ce dernier toute
 mauvaise utilisation du Livrable, faute, négligence, omission ou défaillance
 de sa part ou de celle de ses préposés, non-respect des conseils donnés par
-_NomSociété_.
+{{ company.name }}.
 
 
 ## Article 8. Garanties 
 
-### 8.1. Garanties de _NomSociété_ 
+### 8.1. Garanties de {{ company.name }} 
 
-_NomSociété_ garantit au Client que le Livrable sera achevé et livré
+{{ company.name }} garantit au Client que le Livrable sera achevé et livré
 conformément aux documents contractuels.
 
 À défaut de mention contraire dans les Conditions particulières concernant la
-licence de droit de propriété intellectuelle, _NomSociété_ ne donne pas
+licence de droit de propriété intellectuelle, {{ company.name }} ne donne pas
 d’autre garantie que celle de l’éviction de son fait personnel et de
 l’existence matérielle des droits cédés.
 
@@ -264,7 +261,7 @@ l’existence matérielle des droits cédés.
 
 Le Client déclare être titulaire de tous les droits et autorisations
 permettant l’utilisation des Éléments apportés aux fins des présentes. Il
-garantit _NomSociété_ contre toute action et revendication de tiers du fait
+garantit {{ company.name }} contre toute action et revendication de tiers du fait
 des Éléments apportés.
 
 
@@ -278,19 +275,19 @@ Le Livrable est composé le cas échéant :
   investi des droits sur le framework conformément à cette licence spécifique.
 
 * des développements spécifiques : contenus réalisés spécifiquement par
-  _NomSociété_ pour le Client dans le cadre de la méthode Agile. Le Client est
+  {{ company.name }} pour le Client dans le cadre de la méthode Agile. Le Client est
   investi des droits sur les développements spécifiques conformément à
   l’article 9.2 des présentes conditions générales ;
 
 * des Éléments apportés : contenus de toute nature (codes, textes, images,
-  sons…) insérés dans le Livrable, soit par _NomSociété_ à la demande du
+  sons…) insérés dans le Livrable, soit par {{ company.name }} à la demande du
   Client, soit par le Client lui-même. Le Client reste titulaire des droits
-  sur les Éléments apportés qu’il met à la disposition de _NomSociété_ pour la
+  sur les Éléments apportés qu’il met à la disposition de {{ company.name }} pour la
   réalisation de la prestation.
 
 ### 9.2. Licence exclusive sur le Livrable
 
-À défaut de mention contraire dans les Conditions particulières, _NomSociété_
+À défaut de mention contraire dans les Conditions particulières, {{ company.name }}
 consent au Client à titre exclusif une licence portant sur l’intégralité des
 droits patrimoniaux sur les développements spécifiques, et notamment sur les
 droits d’exploitation, de reproduction, de représentation, d’édition, de
@@ -301,7 +298,7 @@ tous les réseaux de communication, actuels et futurs, et ce sur tout support,
 en tout format.
 
 S’il s’agit de logiciel, la présente licence porte sur le code objet, le code
-source et la documentation du logiciel, _NomSociété_ autorisant le Client à
+source et la documentation du logiciel, {{ company.name }} autorisant le Client à
 accéder aux codes du logiciel.
 
 À défaut de mention contraire dans les Conditions particulières, le Client ne
@@ -309,34 +306,34 @@ pourra pas consentir de sous-licences sur les développements spécifiques.
 
 ### 9.3. Rémunération au titre de la licence
 
-La rémunération de _NomSociété_ au titre de la licence des droits d’auteur sur
+La rémunération de {{ company.name }} au titre de la licence des droits d’auteur sur
 les développements spécifiques est forfaitaire.
 
-_NomSociété_ ne pourra prétendre au titre de sa prestation et de la licence de
+{{ company.name }} ne pourra prétendre au titre de sa prestation et de la licence de
 droit d’auteur sur les développements spécifiques à d’autres rémunérations que
 celles stipulées dans les Conditions particulières.
 
 ### 9.4. Droit de paternité 
 
 À défaut de mention contraire dans les conditions particulières, le nom de
-_GÉRANT_, auteur originaire du Logiciel, devra être associé au Livrable au
-cours de son exploitation. S’il s’agit d’un site web, le nom de _GÉRANT_
+{{ company.director }}, auteur originaire du Logiciel, devra être associé au Livrable au
+cours de son exploitation. S’il s’agit d’un site web, le nom de {{ company.director }}
 apparaîtra :
 
 sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
 » accessible depuis la page d’accueil du site et comportant un lien hypertexte
-vers www._NomSociété_.com ;
+vers [{{ company.url_nice }}]({{ company.url }});
 
 dans le header du code html des pages web du site sous la balise « Creator ».
 
 ### 9.5. Actions en justice
 
 À défaut de mention contraire dans les conditions particulières, seule
-_NomSociété_ aura qualité pour exercer les actions en contrefaçon et
+{{ company.name }} aura qualité pour exercer les actions en contrefaçon et
 concurrence déloyale relatives aux exploitations non autorisées des
 développements spécifiques.
 
-Toutefois, lorsque _NomSociété_ aura autorisé le Client à consentir des
+Toutefois, lorsque {{ company.name }} aura autorisé le Client à consentir des
 sous-licences sur les développements spécifiques, seul le Client aura qualité
 pour exercer les actions en contrefaçon et concurrence déloyale relatives aux
 exploitations non autorisées des développements spécifiques.
@@ -344,12 +341,12 @@ exploitations non autorisées des développements spécifiques.
 
 ## Article 10. Évolution - Maintenance
 
-_NomSociété_ autorise le Client à effectuer lui-même des Évolutions du
+{{ company.name }} autorise le Client à effectuer lui-même des Évolutions du
 Livrable et à en assurer la maintenance.
 
 Toutefois, si le Client souhaite confier les Évolutions ou la maintenance du
 Livrable à un prestataire, le Client s’engage à proposer en priorité la prise
-en charge de cette prestation à _NomSociété_, qui s’engage en contrepartie à
+en charge de cette prestation à {{ company.name }}, qui s’engage en contrepartie à
 proposer au Client des conditions tarifaires similaires à celles consenties
 aux termes du présent contrat.
 
@@ -377,22 +374,22 @@ intérêt conformément aux dispositions légales en vigueur.
 ### 11.4. Rémunération supplémentaire 
 
 En cas de demandes de la part du Client entraînant une charge de travail
-supplémentaire pour _NomSociété_, les parties conviendront, avant toute
+supplémentaire pour {{ company.name }}, les parties conviendront, avant toute
 modification du Plan de travail ou du Cahier des charges, du versement d’une
-somme supplémentaire au profit de _NomSociété_.
+somme supplémentaire au profit de {{ company.name }}.
 
 
 ## Article 12. Références
 
 Sauf interdiction expresse du Client dans un délai d’un mois à compter de la
-réception du Livrable, _NomSociété_ est autorisé à utiliser le nom du Client,
+réception du Livrable, {{ company.name }} est autorisé à utiliser le nom du Client,
 ainsi que l’image de la page d’accueil du Livrable, dans le cadre de sa
 promotion commerciale et publicitaire.
 
 
 ## Article 13. Réserve de propriété
 
-_NomSociété_ se réserve expressément la propriété du Livrable jusqu’au
+{{ company.name }} se réserve expressément la propriété du Livrable jusqu’au
 paiement intégral de son prix en principal et intérêts. Le Client en deviendra
 toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
@@ -402,14 +399,14 @@ celui des risques.
 
 Afin de garantir l’équilibre économique du Contrat, le Client s’engage à ne
 pas embaucher, tenter d’embaucher ou faire travailler directement ou
-indirectement un salarié, un collaborateur ou un sous-traitant de _NomSociété_
+indirectement un salarié, un collaborateur ou un sous-traitant de {{ company.name }}
 durant l’exécution du présent contrat et jusqu’à 5 ans après la réception du
 Livrable.
 
-En cas de non-respect de cette clause, le Client devra verser à _NomSociété_ à
+En cas de non-respect de cette clause, le Client devra verser à {{ company.name }} à
 titre de clause pénale, et sans préjudice des éventuels dommages-intérêts
-auxquels pourrait prétendre _NomSociété_, une somme égale à la rémunération de
-_NomSociété_ stipulée dans les Conditions particulières.
+auxquels pourrait prétendre {{ company.name }}, une somme égale à la rémunération de
+{{ company.name }} stipulée dans les Conditions particulières.
 
 
 ## Article 15. Résiliation 

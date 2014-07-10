@@ -41,3 +41,27 @@ Si vous avez besoin d'un bon avocat sur Paris n'hésitez pas à le contacter
 [http://www.deshoulieres-avocat.com](http://www.deshoulieres-avocat.com)
 
 you should follow me on twitter : [@tibastral](http://twitter.com/tibastral)
+
+----
+
+## Usage automatisé
+
+**Pour générer un contrat**, vous devez d'abord:
+
+* installer les dépendances node/npm: `npm i`
+* définir vos informations personnelles dans `config.json` (`config.sample.json` est dispo en exemple).
+
+Une fois ceci fait, vous pouvez pour chaque contrat/client créer les fichiers suivants:
+
+* `clients/{{client}}.json`: Pour définir les informations propres à chaque client
+* `contracts/YYYY-MM-DD-contrat-{{client}}.json`: Informations spécifiques à au contrat
+* `contracts/YYYY-MM-DD-contrat-{{client}}-cp.md`: Pour réécrire complètement les conditions particulières
+* `contracts/YYYY-MM-DD-contrat-{{client}}-cp-addons.md`: Pour simplement insérer des ajouts dans les conditions particulières
+
+Une fois les différents fichiers créés (facultatif), vous pouvez simplement jouer
+la commande suivante (en remplaçant `{{client}}` par votre clé client):
+
+
+    npm run create --client={{client}}
+
+Votre contrat sera créer dans `contracts/YYYY-MM-DD-contrat-{{client}}.pdf`
