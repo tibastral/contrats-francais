@@ -42,6 +42,9 @@ Si vous avez besoin d'un bon avocat sur Paris n'hésitez pas à le contacter
 
 you should follow me on twitter : [@tibastral](http://twitter.com/tibastral)
 
+Si vous cherchez un moyen d'utiliser ces contrats avec vos clients (travail à l'heure), j'ai créé un service [freelancebooking.pro](freelancebooking.pro), exprès pour ça :)
+
+
 ----
 
 ## Usage automatisé
