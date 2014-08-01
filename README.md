@@ -2,10 +2,11 @@
 
 ## Introduction
 
-Ce repo est une première release de mes contrats rédigés avec mon avocat.
+Ce dépôt est une première version de mes contrats rédigés avec mon avocat.
 
 Pour l'instant, ce sont des contrats qui fonctionnent plutôt bien avec
-mon client actuel.
+mes clients actuels. Ces contrats sont bien adaptés pour le travail à l'heure
+avec des clients, en temps que freelance.
 
 N'hésitez pas à me faire des retours (soit par pull request, soit par DM)
 
