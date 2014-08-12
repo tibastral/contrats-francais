@@ -72,4 +72,4 @@ Votre contrat sera créer dans `contracts/YYYY-MM-DD-contrat-{{client}}.pdf`
 
 ## License
 
-MIT License
+License MIT
