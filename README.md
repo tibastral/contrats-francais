@@ -69,3 +69,7 @@ la commande suivante (en remplaçant `{{client}}` par votre clé client):
     npm run create --client={{client}}
 
 Votre contrat sera créer dans `contracts/YYYY-MM-DD-contrat-{{client}}.pdf`
+
+## License
+
+MIT License
