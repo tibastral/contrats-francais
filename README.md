@@ -36,7 +36,7 @@ pensez qu'ils ne sont pas adaptées à vos besoins.
 
 ## Crédits
 
-L'avocat avec qui j'ai travaillé pour rédiger ces contrats est Étienne
+L'avocat avec qui nous avons travaillé (avec @urbanpierre) pour rédiger ces contrats est Étienne
 Deshoulières, un excellent avocat qui connait très bien son métier.
 Si vous avez besoin d'un bon avocat sur Paris n'hésitez pas à le contacter
 [http://www.deshoulieres-avocat.com](http://www.deshoulieres-avocat.com)
