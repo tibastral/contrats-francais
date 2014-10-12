@@ -5,7 +5,7 @@ est « le Client », cité dans les _Conditions générales de vente_ et ce pré
 
 ## Choix de la méthode de travail
 
-{{ company.name }} et le Client vont travailler sur des développements itératifs
+{{ company.name }} et le Client vont travailler sur des développements planifié
 (méthode Agile).
 
 ## Propriété intellectuelle
@@ -53,9 +53,9 @@ En cochant la case ci-contre, le Client reconnaît avoir lu et accepté les
 
 _Conditions générales de vente_ de {{ company.name }} ☐
 
-Fait à ........................................ , le ..............................  
-En autant d’exemplaires originaux que de parties.  
-Faire précéder la signature de la mention « Lu et approuvé »  
+Fait à ........................................ , le ..............................
+En autant d’exemplaires originaux que de parties.
+Faire précéder la signature de la mention « Lu et approuvé »
 
 **Signatures et cachets**
 

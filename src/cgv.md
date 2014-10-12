@@ -1,21 +1,21 @@
 # Conditions Générales de vente de {{ company.name }} Applicables à compter du {{ cgv.startDate }}
 
 
-ENTRE LES SOUSSIGNÉS 
+ENTRE LES SOUSSIGNÉS
 
 {{ company.name }}, {{ company.description }},
 
 Ci-après dénommée « {{ company.name }} »,
 D’autre part,
 
-ET : 
+ET :
 
 Toute personne physique ou morale, particulier ou professionnel, de droit
 privé ou de droit public, contractant avec {{ company.name }} pour la réalisation
 d’un Livrable,
 
 
-Ci-après « le Client », 
+Ci-après « le Client »,
 D’autre part,
 
 
@@ -34,7 +34,7 @@ contradiction entre les différents éléments, le document le mieux classé dan
 l’ordre de priorité prévaudra.
 
 
-## Article 2. Définitions 
+## Article 2. Définitions
 
 Livrable : Version fonctionnelle d’un site web, logiciel, éléments graphiques,
 éditoriaux ou autres, livrés par {{ company.name }} au Client à l’issue de chaque
@@ -63,16 +63,16 @@ du Livrable est livrée par {{ company.name }} au Client.
 
 
 
-## Article 3. Objet du contrat 
+## Article 3. Objet du contrat
 
 Par le présent contrat, {{ company.name }} s’engage à concevoir et à réaliser pour
 le compte du Client un Livrable conformément à la
 [méthode Agile](http://agilemanifesto.org/iso/fr/).
 
 
-## Article 4. Obligations des parties 
+## Article 4. Obligations des parties
 
-### 4.1. Obligations de {{ company.name }} 
+### 4.1. Obligations de {{ company.name }}
 
 {{ company.name }} s’engage à concevoir et à réaliser un Livrable fonctionnel par
 Itérations successives. Il devra ainsi apporter les solutions techniques
@@ -169,7 +169,7 @@ méthode de travail envisagée fera l’objet d’une description dans les
 Conditions particulières.
 
 
-## Article 6. Procédure de réception 
+## Article 6. Procédure de réception
 
 À la fin de chacune des phases de développement, {{ company.name }} livre au Client
 un Livrable. Dans un délai de 1 semaine à compter de la livraison, le Client
@@ -182,7 +182,7 @@ Si le Client n’a émis aucune réserve dans le délai précité, le Livrable s
 au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 
 
-## Article 7. Responsabilité 
+## Article 7. Responsabilité
 
 ### 7.1. Limitation de responsabilité
 
@@ -245,9 +245,9 @@ de sa part ou de celle de ses préposés, non-respect des conseils donnés par
 {{ company.name }}.
 
 
-## Article 8. Garanties 
+## Article 8. Garanties
 
-### 8.1. Garanties de {{ company.name }} 
+### 8.1. Garanties de {{ company.name }}
 
 {{ company.name }} garantit au Client que le Livrable sera achevé et livré
 conformément aux documents contractuels.
@@ -257,7 +257,7 @@ licence de droit de propriété intellectuelle, {{ company.name }} ne donne pas
 d’autre garantie que celle de l’éviction de son fait personnel et de
 l’existence matérielle des droits cédés.
 
-### 8.2. Garanties du Client 
+### 8.2. Garanties du Client
 
 Le Client déclare être titulaire de tous les droits et autorisations
 permettant l’utilisation des Éléments apportés aux fins des présentes. Il
@@ -265,7 +265,7 @@ garantit {{ company.name }} contre toute action et revendication de tiers du fai
 des Éléments apportés.
 
 
-## Article 9. Propriété intellectuelle 
+## Article 9. Propriété intellectuelle
 
 ### 9.1. Titularité des droits sur le Livrable
 Le Livrable est composé le cas échéant :
@@ -313,7 +313,7 @@ les développements spécifiques est forfaitaire.
 droit d’auteur sur les développements spécifiques à d’autres rémunérations que
 celles stipulées dans les Conditions particulières.
 
-### 9.4. Droit de paternité 
+### 9.4. Droit de paternité
 
 À défaut de mention contraire dans les conditions particulières, le nom de
 {{ company.director }}, auteur originaire du Logiciel, devra être associé au Livrable au
@@ -351,7 +351,7 @@ proposer au Client des conditions tarifaires similaires à celles consenties
 aux termes du présent contrat.
 
 
-## Article 11. Prix et modalités de paiement 
+## Article 11. Prix et modalités de paiement
 
 ### 11.1. Prix
 
@@ -366,12 +366,12 @@ paiement interviendra avant le commencement de chacune des Itérations
 Sauf accord exprès des Parties, aucun rabais, remise, ristourne ou escompte ne
 sera accordé au Client.
 
-### 11.3. Intérêts en cas de retard 
+### 11.3. Intérêts en cas de retard
 
 En cas de non-paiement à son échéance, toute somme due portera automatiquement
 intérêt conformément aux dispositions légales en vigueur.
 
-### 11.4. Rémunération supplémentaire 
+### 11.4. Rémunération supplémentaire
 
 En cas de demandes de la part du Client entraînant une charge de travail
 supplémentaire pour {{ company.name }}, les parties conviendront, avant toute
@@ -395,7 +395,7 @@ toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
 
 
-## Article 14. Non-sollicitation 
+## Article 14. Non-sollicitation
 
 Afin de garantir l’équilibre économique du Contrat, le Client s’engage à ne
 pas embaucher, tenter d’embaucher ou faire travailler directement ou
@@ -409,7 +409,7 @@ auxquels pourrait prétendre {{ company.name }}, une somme égale à la rémuné
 {{ company.name }} stipulée dans les Conditions particulières.
 
 
-## Article 15. Résiliation 
+## Article 15. Résiliation
 
 En cas de manquement grave de l’une ou l’autre des parties aux obligations du
 présent contrat non réparé dans un délai de 15 jours à compter de la
@@ -423,9 +423,9 @@ saurait être interprété pour l’avenir comme une renonciation à l’obligat
 cause.
 
 
-## Article 16. Loi applicable et juridiction compétente 
+## Article 16. Loi applicable et juridiction compétente
 
-Le présent contrat est soumis à la loi française. 
+Le présent contrat est soumis à la loi française.
 
 En cas de litige, la compétence exclusive est attribuée aux tribunaux de
 Paris, même pour les procédures d’urgence ou conservatoire en référé ou par
