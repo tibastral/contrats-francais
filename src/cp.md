@@ -5,8 +5,8 @@ est « le Client », cité dans les _Conditions générales de vente_ et ce pré
 
 ## Choix de la méthode de travail
 
-{{ company.name }} et le Client vont travailler sur des développements planifié
-(méthode Agile).
+{{ company.name }} et le Client vont travailler sur des développements planifiés
+(méthode agile).
 
 ## Propriété intellectuelle
 
@@ -15,14 +15,23 @@ développements spécifiques.
 
 ## Prix - Paiement
 
-Le taux horaire de {{ company.name }} s’élève à {{ company.hourly_rate }} {{ company.hourly_rate_legend }}. {{ company.name }}
-propose ses services pour {{ contract.duration }} {{ contract.duration_legend }} de prestation.
+Le taux horaire de {{ company.name }} s'élève à {{ company.hourly_rate }} {{ company.hourly_rate_legend }}. {{ company.name }} propose ses services pour {{ contract.duration }} {{ contract.duration_legend }} de prestation.
+Le client s'engage donc à payer {{ contract.payment_novat }} {{ contract.payment_novat_legend }} soit {{ contract.payment_vat }} {{ contract.payment_vat_legend }} en deux fois : la moitié avant l'intervention et la moitié à la fin de l'intervention.
+Le paiement des prestations interviendra par virement sur le compte bancaire dont le RIB a été communiqué au Client.
 
-Le client s’engage donc à payer {{ contract.payment_novat }} {{ contract.payment_novat_legend }}
-soit {{ contract.payment_vat }} {{ contract.payment_vat_legend }} avant l’intervention.
+## Cahier des charges
 
-Le paiement des prestations interviendra par virement sur le compte bancaire
-dont le RIB a été communiqué au Client.
+* développement d'une application web permettant de poster des annonces, ainsi que de répondre aux annonces (sous forme de commentaire).
+* inscription / connexion
+* envoi d'une annonce
+* géolocalisation de l'annonce
+* visualisation de toutes les annonces
+* réponse à une annonce
+* report d'une annonce ou d'un message
+* administration des utilisateurs / annonces
+* design de l'application web responsive (chrome >= 38.0.2125.101 / firefox >= 31.0, Internet Explorer >= 11)
+* déploiement de cette application sur le serveur heroku.com
+* transmission des codes d'accès et du code pour cette application
 
 ## Conditions spécifiques
 
@@ -31,7 +40,7 @@ dont le RIB a été communiqué au Client.
 Le Client conserve la liberté de confier les Evolutions ou la maintenance du
 Livrable au prestataire de son choix.
 
-{{ cp.addons}}
+{{ cp.addons }}
 
 ## Confidentialité à la charge du Client
 
@@ -51,7 +60,7 @@ de développement conclu entre les Parties.
 
 En cochant la case ci-contre, le Client reconnaît avoir lu et accepté les
 
-_Conditions générales de vente_ de {{ company.name }} ☐
+_Conditions générales de vente_ de {{ company.name }}
 
 Fait à ........................................ , le ..............................
 En autant d’exemplaires originaux que de parties.
