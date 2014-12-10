@@ -5,7 +5,7 @@ est « le Client », cité dans les _Conditions générales de vente_ et ce pré
 
 ## Choix de la méthode de travail
 
-{{ company.name }} et le Client vont travailler sur des développements planifiés
+{{ company.name }} et le Client vont travailler sur des développements itératifs
 (méthode agile).
 
 ## Propriété intellectuelle
