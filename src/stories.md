@@ -127,7 +127,7 @@ plus à travailler sur un projet qui pourrait nous être utile...
 2. developer => Milesrock
 
 
-## méthode de travail avec cucumber et pivotal (1/2)
+## Méthode de travail avec cucumber et pivotal (1/2)
 
 1. le product owner propose une user story au développeur
 2. le développeur lui demande quelle est la valeur ajoutée de cette fonctionnalité
@@ -139,27 +139,27 @@ plus à travailler sur un projet qui pourrait nous être utile...
 8. il livre la story sur la plateforme de recette (et clique sur deliver)
 9. le product owner refuse tant de fois qu'il veut la story (tant qu'elle ne satisfait pas ses requirements), MAIS doit donner une raison à chaque fois
 11. le développeur peut alors cliquer sur restart, finish, deliver pour refaire un cycle de travail
-12. Quand tout est ok, le product owner clique sur accept
-13. La story est finie et peut être incluse dans la prochaine release.
+12. quand tout est ok, le product owner clique sur accept
+13. la story est finie et peut être incluse dans la prochaine release.
 
 
-## la méthode de travail associée à cucumber passe par 3 étapes de développement : Red, Green et Refactor
+## Méthode de travail associée à cucumber passe par 3 étapes de développement : Red, Green et Refactor
 
 * Quand on lance notre premier test, on commence par avoir du jaune, le jaune
   correspond à des étapes non définies
 * On va coder ce à quoi correspondent ces étapes
 
-### red
+### Red
 
 * On relance notre test, et on a alors le test qui échoue (rouge). C'est normal, on n'a rien codé pour le moment.
 
-### green
+### Green
 
 * On code juste assez pour faire passer ce test. On ne fait pas d'optimisation de
 code. On se concentre vraiment sur le fait de faire passer le test. Quand on
 relance le test, celui-ci passe (il est alors vert)
 
-### refactor
+### Refactor
 
 On factorise le code pour supprimer la duplication, et on essaye le plus
 possible d'avoir du code lisible, propre et réutilisable.
@@ -173,5 +173,5 @@ Le résultat de ce travail a servi à créer un projet actuellement utilisé en 
 # Ressources
 
 * Rspec, cucumber book : [http://pragprog.com/book/achbd/the-rspec-book](http://pragprog.com/book/achbd/the-rspec-book)
-* le wiki du github de cucumber [https://github.com/cucumber/cucumber/wiki](https://github.com/cucumber/cucumber/wiki)
+* Le wiki du github de cucumber [https://github.com/cucumber/cucumber/wiki](https://github.com/cucumber/cucumber/wiki)
 * [http://cukes.info](http://cukes.info)
