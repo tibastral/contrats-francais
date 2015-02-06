@@ -16,22 +16,8 @@ développements spécifiques.
 ## Prix - Paiement
 
 Le taux horaire de {{ company.name }} s'élève à {{ company.hourly_rate }} {{ company.hourly_rate_legend }}. {{ company.name }} propose ses services pour {{ contract.duration }} {{ contract.duration_legend }} de prestation.
-Le client s'engage donc à payer {{ contract.payment_novat }} {{ contract.payment_novat_legend }} soit {{ contract.payment_vat }} {{ contract.payment_vat_legend }} en deux fois : la moitié avant l'intervention et la moitié à la fin de l'intervention.
+Le client s’engage donc à payer {{ contract.payment_novat }} {{ contract.payment_novat_legend }} soit {{ contract.payment_vat }} {{ contract.payment_vat_legend }} avant l’intervention.
 Le paiement des prestations interviendra par virement sur le compte bancaire dont le RIB a été communiqué au Client.
-
-## Cahier des charges
-
-* développement d'une application web permettant de poster des annonces, ainsi que de répondre aux annonces (sous forme de commentaire).
-* inscription / connexion
-* envoi d'une annonce
-* géolocalisation de l'annonce
-* visualisation de toutes les annonces
-* réponse à une annonce
-* report d'une annonce ou d'un message
-* administration des utilisateurs / annonces
-* design de l'application web responsive (chrome >= 38.0.2125.101 / firefox >= 31.0, Internet Explorer >= 11)
-* déploiement de cette application sur le serveur heroku.com
-* transmission des codes d'accès et du code pour cette application
 
 ## Conditions spécifiques
 
