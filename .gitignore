@@ -6,3 +6,6 @@ clients
 contracts
 config.json
 tmp/*.md
+
+.ruby-version
+.ruby-gemset
