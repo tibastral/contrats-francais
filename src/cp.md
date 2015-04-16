@@ -15,9 +15,7 @@ développements spécifiques.
 
 ## Prix - Paiement
 
-Le taux horaire de {{ company.name }} s'élève à {{ company.hourly_rate }} {{ company.hourly_rate_legend }}. {{ company.name }} propose ses services pour {{ contract.duration }} {{ contract.duration_legend }} de prestation.
-Le client s’engage donc à payer {{ contract.payment_novat }} {{ contract.payment_novat_legend }} soit {{ contract.payment_vat }} {{ contract.payment_vat_legend }} avant l’intervention.
-Le paiement des prestations interviendra par virement sur le compte bancaire dont le RIB a été communiqué au Client.
+Le taux horaire de {{ company.name }} s'élève à {{ company.hourly_rate }} {{ company.hourly_rate_legend }}. {{ company.name }} propose ses services pour {{ contract.duration }} {{ contract.duration_unit }} de prestation.{{#if contract.prepayment_novat }}Le client s’engage donc à payer {{ contract.prepayment_novat }} € HT {{#if contract.prepayment_vat}} soit {{ contract.prepayment_vat }} € TTC{{/if}} avant l'intervention.{{/if}} Le paiement des prestations interviendra par virement sur le compte bancaire dont le RIB a été communiqué au Client.
 
 ## Conditions spécifiques
 
@@ -44,11 +42,11 @@ valable pour une durée de 10 ans.
 Les présentes stipulations constituent les Conditions particulières du contrat
 de développement conclu entre les Parties.
 
-En cochant la case ci-contre, le Client reconnaît avoir lu et accepté les
+En cochant la ou les case(s) ci-contre, le Client reconnaît avoir lu et accepté :
 
-_Conditions générales de vente_ de {{ company.name }}
+&#9723; les _Conditions générales de vente_ de {{ company.name }}
 
-Fait à ........................................ , le ..............................
+Fait à ........................................ , le ...... /...... /................
 En autant d’exemplaires originaux que de parties.
 Faire précéder la signature de la mention « Lu et approuvé »
 
