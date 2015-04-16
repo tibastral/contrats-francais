@@ -6,7 +6,7 @@ ENTRE LES SOUSSIGNÉS
 {{ company.name }}, {{ company.description }},
 
 Ci-après dénommée « {{ company.name }} »,
-D’autre part,
+D’une part,
 
 ET :
 
