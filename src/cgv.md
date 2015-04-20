@@ -316,8 +316,8 @@ celles stipulées dans les Conditions particulières.
 ### 9.4. Droit de paternité
 
 À défaut de mention contraire dans les conditions particulières, le nom de
-{{ company.director }}, auteur originaire du Logiciel, devra être associé au Livrable au
-cours de son exploitation. S’il s’agit d’un site web, le nom de {{ company.director }}
+{{ company.author }}, auteur originaire du Logiciel, devra être associé au Livrable au
+cours de son exploitation. S’il s’agit d’un site web, le nom de {{ company.author }}
 apparaîtra :
 
 sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
