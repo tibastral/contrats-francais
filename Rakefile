@@ -14,7 +14,7 @@ task :handlebars do
         File.read("src/#{file}.md")
       ).call(
         JSON.parse(
-          File.read('config.json').force_encoding('UTF-8')
+          File.read('config.sample.json').force_encoding('UTF-8')
         )
       )
     )
