@@ -27,4 +27,5 @@ task :pdf do
     `rm -f contracts/#{file}.pdf`
     `gimli -f tmp/#{file}.md -o contracts`
   end
+  puts 'Vos fichiers sont dans le dossier contracts'
 end
