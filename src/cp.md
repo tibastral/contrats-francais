@@ -3,11 +3,6 @@
 {{ client.description }},
 est « le Client », cité dans les _Conditions générales de vente_ et ce présent contrat.
 
-## Choix de la méthode de travail
-
-{{ company.name }} et le Client vont travailler sur des développements itératifs
-(méthode agile).
-
 ## Propriété intellectuelle
 
 {{ company.name }} autorise le Client à consentir des sous-licences sur les
