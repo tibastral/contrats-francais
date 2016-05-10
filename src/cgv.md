@@ -25,7 +25,7 @@ Les documents contractuels, par ordre de priorité décroissant, sont les
 suivants :
 
 * Conditions particulières
-* Backlogs
+* Backlog
 * Icebox
 * Conditions générales de vente
 
@@ -102,12 +102,7 @@ supérieur d’une semaine à la durée dudit retard ou défaut de diligence, sa
 que ce report ne puisse constituer une faute de {{ company.name }} ou un préjudice
 pour le Client.
 
-## Article 5. Méthodes de travail
-
-Les parties déterminent dans les Conditions particulières l’une des méthodes
-de travail suivantes :
-
-### 5.1 Développements itératifs
+## Article 5. Méthode de travail : développements itératifs
 
 Dans le cadre de cette méthode de travail, {{ company.name }} s’engage à concevoir
 un Livrable conformément à la méthode Agile. Le développement du Livrable fait
@@ -131,43 +126,12 @@ définies par {{ company.name }}.
 Le cycle de développement peut commencer lorsque les parties considèrent que
 la charge de travail est suffisante pour l’Itération.
 
-Lors d’un bref entretien quotidien (environ 10 minutes), les parties font le
-point sur l’état d’avancement et les problèmes rencontrés.
-
 Aux termes de l’Itération, le Livrable est livré au Client et réceptionné
-conformément à l’article 7 des présentes.
+conformément à l’article 6 des présentes.
 
 À l’issue de l’Itération, un bilan est effectué entre les parties, afin de
 savoir si une nouvelle Itération est nécessaire pour la mise en production du
 Livrable.
-
-
-### 5.2 Développement planifié
-
-Dans ce cadre, {{ company.name }} s’engage à concevoir un Livrable selon la méthode
-classique de développement, dite Waterfall. Le développement complet du
-Livrable se déroulera alors en deux étapes.
-
-#### 6.1. Étape 1 – Conception du Livrable
-
-Suite à la remise par le Client des informations nécessaires à la réalisation
-du Livrable, {{ company.name }} établira l’architecture du Livrable, en tenant
-compte, le cas échéant, du cahier des charges fourni par le Client.
-
-#### 6.2 Étape 2 – Réalisation du Livrable
-
-Suite à la validation de l’architecture par le Client, {{ company.name }} procédera
-à la réalisation du Livrable. Au terme de la phase de développement, le
-Livrable est livré au Client et réceptionné conformément à l’article 7 des
-présentes.
-
-
-### 5.3 Méthode ad hoc
-
-Les parties pourront convenir d’une méthode de travail ad hoc. Dans ce cas, la
-méthode de travail envisagée fera l’objet d’une description dans les
-Conditions particulières.
-
 
 ## Article 6. Procédure de réception
 
@@ -268,6 +232,7 @@ des Éléments apportés.
 ## Article 9. Propriété intellectuelle
 
 ### 9.1. Titularité des droits sur le Livrable
+
 Le Livrable est composé le cas échéant :
 
 * d’un framework : composant logiciel structurel, définissant les fondations
