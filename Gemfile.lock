@@ -12,11 +12,11 @@ GEM
       redcarpet (~> 3.2)
       wkhtmltopdf-binary (~> 0.9.9.3)
     github-markup (1.4.0)
-    handlebars (0.7.0)
-      handlebars-source (~> 3.0.0)
+    handlebars (0.8.0)
+      handlebars-source (~> 4.0.5)
       therubyracer (~> 0.12.1)
-    handlebars-source (3.0.3)
-    libv8 (3.16.14.13)
+    handlebars-source (4.0.5)
+    libv8 (3.16.14.15)
     mini_portile2 (2.0.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
@@ -25,7 +25,7 @@ GEM
     prawn (2.1.0)
       pdf-core (~> 0.6.1)
       ttfunk (~> 1.4.0)
-    rake (11.1.1)
+    rake (11.1.2)
     redcarpet (3.3.4)
     ref (2.0.0)
     therubyracer (0.12.2)
@@ -44,4 +44,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   1.10.3
+   1.12.1
