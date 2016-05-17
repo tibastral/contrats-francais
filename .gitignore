@@ -9,3 +9,4 @@ tmp/*.md
 
 .ruby-version
 .ruby-gemset
+/.bundle
