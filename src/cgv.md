@@ -1,38 +1,16 @@
 # Conditions Générales de vente de {{company.name}} Applicables à compter du {{cgv.startDate}}
 
 
-ENTRE LES SOUSSIGNÉS
+## Article 1. Champ d’application
 
-{{company.name}}, {{ company.description }},
-
-Ci-après dénommée « {{company.name}} »,
-D’une part,
-
-ET :
-
-Toute personne physique ou morale, particulier ou professionnel, de droit privé
-ou de droit public, contractant avec {{company.name}} pour la réalisation d’un
-Livrable,
-
-
-Ci-après « le Client »,
-D’autre part,
-
-
-## Article 1. Documents contractuels
-
-Les documents contractuels, par ordre de priorité décroissant, sont les
-suivants :
-
-* Conditions particulières
-* Backlog
-* Icebox
-* Conditions générales de vente
-
-Ils constituent l’intégralité des obligations des parties. En cas de
-contradiction entre les différents éléments, le document le mieux classé dans
-l’ordre de priorité prévaudra.
-
+Les présentes conditions générales sont applicables entre {{company.name}},
+Entreprise Unipersonnelle à Responsabilité Limitée au capital de
+{{company.capital}} €, enregistrée au RCS de Paris sous n°{{company.rcs}}, dont
+le siège social est sis {{company.address}}, représentée aux fins des présentes
+par {{company.author}} en qualité de gérant, Ci-après dénommée «
+{{company.name}} », et toute personne physique ou morale, particulier ou
+professionnel, de droit privé ou de droit public, contractant avec
+{{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
 
 ## Article 2. Définitions
 
