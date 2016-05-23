@@ -72,10 +72,61 @@ aucune obligation de maintenance ou d’assistance à l’utilisation.
 
 ### 4.2. Obligations et déclarations du Client
 
-{{company.name}} s’engage à concevoir et à réaliser un Livrable fonctionnel par
-Itérations successives. Il devra ainsi apporter les solutions techniques
-permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
-fonctionnement. {{company.name}} est soumis à une obligation de moyens.
+#### 4.2.1. Information du Client
+
+Le Client déclare avoir reçu de {{company.name}} toutes les explications et
+précisions utiles pouvant lui permettre d’utiliser le Livrable objet du présent
+contrat.
+
+Le Client reconnaît que ses besoins et les prestations proposées par
+{{company.name}} sont en adéquation et qu’il a souscrit au contrat en
+connaissance de cause et en disposant de toutes les informations nécessaires
+lui permettant de produire un consentement libre et éclairé.
+
+Le Client s’engage à informer {{company.name}} de toute circonstance
+susceptible d’affecter l’exécution du présent contrat dès qu’il en a
+connaissance.
+
+#### 4.2.2. Autorisations et déclarations
+
+Le Client est seul responsable des autorisations et déclarations relatives à
+l’utilisation du Livrable. Le Client déclare qu’il dispose des droits et
+autorisations nécessaires à cette fin. Le cas échéant, le Client déclare avoir
+effectué au préalable toute démarche nécessaire, telle que demandes
+d’autorisations et déclarations administratives.
+
+Le défaut de telles déclarations et autorisations ne pourra en aucun cas
+remettre en cause la validité du présent contrat. Le Client restera notamment
+tenu de régler à {{company.name}} les sommes dues. Le Client garantit
+{{company.name}} contre tout recours qui serait entrepris à son encontre en cas
+de défaut de telles déclarations et autorisations.
+
+#### 4.2.3. Eléments Apportés
+
+Le Client s'engage à fournir à {{company.name}} les Eléments Apportés dans un
+délai maximum de 7 jours ouvrés à la demande de {{company.name}}. Il est
+précisé à ce titre que la rédaction des textes et la saisie du contenu
+administrable est à la charge exclusive de Le Client.
+
+Le Client s’engage à réagir dans les meilleurs délais à toute demande de
+{{company.name}} relative à la réalisation du Livrable. Le Client reconnaît que
+son implication et sa collaboration sont nécessaires pour la bonne exécution du
+contrat.
+
+Tout retard ou défaut de diligence du Client pourra entraîner un report de
+livraison de {{company.name}} supérieur d’une semaine à la durée dudit retard
+ou défaut de diligence, sans que ce report ne puisse constituer une faute de
+{{company.name}} ou un préjudice pour le Client.
+
+#### 4.2.4. Fourniture des informations
+
+Le Client s'engage à fournir à {{company.name}} toutes les informations et tous
+les documents nécessaires à la réalisation des prestations dans un délai de
+24h. Le Client doit soumettre à {{company.name}} des informations et/ou
+documents lisibles et compréhensibles. A défaut, {{company.name}} peut décider
+de ne pas prendre en charge ou de reporter d’exécution de la prestation.
+
+#### 4.2.5. Réactivité
 
 Le Client s’engage à réagir dans les meilleurs délais à toute demande de
 {{company.name}} relative à la réalisation de la prestation. Le Client
