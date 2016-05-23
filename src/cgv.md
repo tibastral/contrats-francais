@@ -1,4 +1,4 @@
-# Conditions Générales de vente de {{company.name}} Applicables à compter du {{ cgv.startDate }}
+# Conditions Générales de vente de {{company.name}} Applicables à compter du {{cgv.startDate}}
 
 
 ENTRE LES SOUSSIGNÉS
