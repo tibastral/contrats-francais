@@ -14,6 +14,10 @@ professionnel, de droit privé ou de droit public, contractant avec
 
 ## Article 2. Définitions
 
+Devis : conditions particulières du présent contrat contenant notamment les
+conditions techniques, spécifiques et tarifaires de la réalisation du Livrable
+par {{company.name}}.
+
 Livrable : Version fonctionnelle d’un site web, logiciel, éléments graphiques,
 éditoriaux ou autres, livrés par {{company.name}} au Client à l’issue de chaque
 Itération.
@@ -54,31 +58,34 @@ pour le compte du Client un Livrable conformément à la méthode
 {{company.name}} s’engage à concevoir et à réaliser un Livrable fonctionnel par
 Itérations successives. Il devra ainsi apporter les solutions techniques
 permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
-fonctionnement.
+fonctionnement. {{company.name}} est soumis à une obligation de moyens.
 
-{{company.name}} est soumis à une obligation de moyens. {{company.name}} pourra
-sous-traiter tout ou partie de la prestation.
+{{company.name}} pourra sous-traiter tout ou partie de la prestation. A cet
+égard, la simple mention écrite du sous-traitant, sur tout document, de quelque
+manière que ce soit, vaudra agrément du sous-traitant par le Client, à défaut
+d’une notification immédiate de refus adressé par le Client à {{company.name}}
+par lettre recommandée avec avis de réception. Le taux horaire du sous-traitant
+est celui mentionné sur le Devis.
 
-Sauf stipulation contraire dans les Conditions particulières, {{company.name}}
+Sauf stipulation contraire dans le Devis, {{company.name}}
 n’est soumis à aucune obligation de maintenance ou d’assistance à l’utilisation.
 
-### 4.2. Obligations du Client
+### 4.2. Obligations et déclarations du Client
 
-Le Client s’engage à fournir à {{company.name}} les Éléments apportés. Il est
-précisé à ce titre, sauf mention contraire dans les Conditions particulières,
-que la rédaction des textes et la saisie du contenu administrable est à la
-charge exclusive du Client.
+{{company.name}} s’engage à concevoir et à réaliser un Livrable fonctionnel par
+Itérations successives. Il devra ainsi apporter les solutions techniques
+permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
+fonctionnement. {{company.name}} est soumis à une obligation de moyens.
 
-Le Client s’engage à réagir dans un délai de 3 jours à partir de la mise en
-demeure au plus tard à toute demande de {{company.name}} relative à la
-réalisation du Livrable. Le Client reconnaît que son implication et sa
-collaboration sont nécessaires pour la bonne exécution du contrat. Tout retard
-ou défaut de diligence du Client pourra entraîner un report de livraison de
-{{company.name}} supérieur d’une semaine à la durée dudit retard ou défaut de
-diligence, sans que ce report ne puisse constituer une faute de
-{{company.name}} ou un préjudice pour le Client.
+Le Client s’engage à réagir dans les meilleurs délais à toute demande de
+{{company.name}} relative à la réalisation de la prestation. Le Client
+reconnaît que son implication et sa collaboration sont nécessaires pour la
+bonne exécution du contrat. Tout retard ou défaut de diligence du Client pourra
+entraîner un report de livraison de {{company.name}} supérieur d’une semaine à
+la durée dudit retard ou défaut de diligence du Client, sans que ce report ne
+puisse constituer une faute de {{company.name}} ou un préjudice pour le Client.
 
-## Article 5. Méthode de travail : développements itératifs
+## Article 5. Méthode : développements itératifs
 
 Dans le cadre de cette méthode de travail, {{company.name}} s’engage à
 concevoir un Livrable conformément à la méthode Agile. Le développement du
@@ -153,8 +160,7 @@ indirects tels que, notamment, les pertes de données, les préjudices
 commerciaux, les pertes de commandes, les atteintes à l’image de marque, les
 troubles commerciaux et les pertes de bénéfices ou de clients. Le montant des
 dommages et intérêts mis à la charge de {{company.name}} ne pourra excéder le
-montant du prix total du Livrable, tel qu’indiqué dans les Conditions
-particulières.
+montant du prix total du Livrable, tel qu’indiqué dans le Devis.
 
 Aux termes de chaque Itération, {{company.name}} conserve son entière liberté
 de poursuivre ou de ne pas poursuivre le projet avec le Client.
@@ -168,6 +174,8 @@ livraison d’une Itération, sans que cela ne constitue une faute de
 {{company.name}} n’engagera pas sa responsabilité en cas de force majeure ou de
 faute du Client, telles que définies ci-après :
 
+#### 7.2.1. Force majeure
+
 Sera considéré comme un cas de force majeure opposable au Client tout
 empêchement, limitation ou dérangement du fait d’incendie, d’épidémie,
 d’explosion, de tremblement de terre, de fluctuations de la bande passante, de
@@ -179,6 +187,8 @@ Site, d’inondation, de panne d’électricité, de guerre, d’embargo, de loi
 d’injonction, de demande ou d’exigence de tout gouvernement, de réquisition, de
 grève, de boycott, ou autres circonstances hors du contrôle raisonnable de
 {{company.name}}.
+
+#### 7.2.2. Faute du Client
 
 Sera considérée comme une faute du Client opposable à ce dernier toute mauvaise
 utilisation du Livrable, faute, négligence, omission ou défaillance de sa part
@@ -193,10 +203,10 @@ ou de celle de ses préposés, non-respect des conseils donnés par
 {{company.name}} garantit au Client que le Livrable sera achevé et livré
 conformément aux documents contractuels.
 
-À défaut de mention contraire dans les Conditions particulières concernant la
-licence de droit de propriété intellectuelle, {{company.name}} ne donne pas
-d’autre garantie que celle de l’éviction de son fait personnel et de
-l’existence matérielle des droits cédés.
+À défaut de mention contraire dans le Devis concernant la licence de droit de
+propriété intellectuelle, {{company.name}} ne donne pas d’autre garantie que
+celle de l’éviction de son fait personnel et de l’existence matérielle des
+droits cédés.
 
 ### 8.2. Garanties du Client
 
@@ -212,11 +222,11 @@ l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 
 Le Livrable est composé le cas échéant :
 
-* d’un framework : composant logiciel structurel, définissant les fondations du
+* d’un Framework : composant logiciel structurel, définissant les fondations du
   Livrable. Le framework est placé sous licence spécifique. Le Client est
   investi des droits sur le framework conformément à cette licence spécifique.
 
-* des développements spécifiques : contenus réalisés spécifiquement par
+* des Développements Spécifiques : contenus réalisés spécifiquement par
   {{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client
   est investi des droits sur les développements spécifiques conformément à
   l’article 9.2 des présentes conditions générales ;
@@ -229,22 +239,21 @@ Le Livrable est composé le cas échéant :
 
 ### 9.2. Licence exclusive sur le Livrable
 
-À défaut de mention contraire dans les Conditions particulières,
-{{company.name}} consent au Client à titre exclusif une licence portant sur
-l’intégralité des droits patrimoniaux sur les développements spécifiques, et
-notamment sur les droits d’exploitation, de reproduction, de représentation,
-d’édition, de commercialisation, de traduction dont il est titulaire, pour
-toute la durée de protection des droits de propriété intellectuelle et pour le
-monde entier, par tout procédé, quel qu’il soit, connu ou inconnu à ce jour, et
-notamment par tous les réseaux de communication, actuels et futurs, et ce sur
-tout support, en tout format.
+À défaut de mention contraire dans le Devis, {{company.name}} consent au Client
+à titre exclusif une licence portant sur l’intégralité des droits patrimoniaux
+sur les développements spécifiques, et notamment sur les droits d’exploitation,
+de reproduction, de représentation, d’édition, de commercialisation, de
+traduction dont il est titulaire, pour toute la durée de protection des droits
+de propriété intellectuelle et pour le monde entier, par tout procédé, quel
+qu’il soit, connu ou inconnu à ce jour, et notamment par tous les réseaux de
+communication, actuels et futurs, et ce sur tout support, en tout format.
 
 S’il s’agit de logiciel, la présente licence porte sur le code objet, le code
 source et la documentation du logiciel, {{company.name}} autorisant le Client à
 accéder aux codes du logiciel.
 
-À défaut de mention contraire dans les Conditions particulières, le Client ne
-pourra pas consentir de sous-licences sur les développements spécifiques.
+À défaut de mention contraire dans le Devis, le Client ne pourra pas consentir
+de sous-licences sur les développements spécifiques.
 
 ### 9.3. Rémunération au titre de la licence
 
@@ -253,11 +262,11 @@ sur les développements spécifiques est forfaitaire.
 
 {{company.name}} ne pourra prétendre au titre de sa prestation et de la licence
 de droit d’auteur sur les développements spécifiques à d’autres rémunérations
-que celles stipulées dans les Conditions particulières.
+que celles stipulées dans le Devis.
 
 ### 9.4. Droit de paternité
 
-À défaut de mention contraire dans les conditions particulières, le nom de
+À défaut de mention contraire dans le Devis, le nom de
 {{company.author}}, auteur originaire du Logiciel, devra être associé au
 Livrable au cours de son exploitation. S’il s’agit d’un site web, le nom de
 {{company.author}} apparaîtra :
@@ -270,7 +279,7 @@ dans le header du code html des pages web du site sous la balise « Creator ».
 
 ### 9.5. Actions en justice
 
-À défaut de mention contraire dans les conditions particulières, seule
+À défaut de mention contraire dans le Devis, seule
 {{company.name}} aura qualité pour exercer les actions en contrefaçon et
 concurrence déloyale relatives aux exploitations non autorisées des
 développements spécifiques.
@@ -297,11 +306,10 @@ aux termes du présent contrat.
 
 ### 11.1. Prix
 
-Le taux horaire ou journalier est celui convenu dans les Conditions
-particulières.
+Le taux horaire ou journalier est celui convenu dans le Devis.
 
-À défaut de stipulation contraire dans les Conditions particulières, le
-paiement interviendra avant le commencement de chacune des Itérations
+À défaut de stipulation contraire dans le Devis, le paiement interviendra avant
+le commencement de chacune des Itérations
 
 ### 11.2. Rabais – Remise - Ristourne
 
@@ -347,8 +355,7 @@ l’exécution du présent contrat et jusqu’à 5 ans après la réception du L
 En cas de non-respect de cette clause, le Client devra verser à
 {{company.name}} à titre de clause pénale, et sans préjudice des éventuels
 dommages-intérêts auxquels pourrait prétendre {{company.name}}, une somme égale
-à la rémunération de {{company.name}} stipulée dans les Conditions
-particulières.
+à la rémunération de {{company.name}} stipulée dans le Devis.
 
 ## Article 15. Résiliation
 
@@ -367,6 +374,7 @@ partie à l’une quelconque des obligations visées dans les présentes ne saur
 
 Le présent contrat est soumis à la loi française.
 
-En cas de litige, la compétence exclusive est attribuée aux tribunaux de Paris,
-même pour les procédures d’urgence ou conservatoire en référé ou par requête,
-nonobstant pluralité de défendeurs ou appel en garantie.
+En cas de litige, la compétence exclusive est attribuée aux tribunaux sur siège
+social de {{company.name}}, même pour les procédures d’urgence ou conservatoire
+en référé ou par requête, nonobstant pluralité de défendeurs ou appel en
+garantie.
