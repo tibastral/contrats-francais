@@ -30,10 +30,10 @@ associé.
 Icebox : spécifications fonctionnelles définies par le Client, sous la forme de
 cas simples et factuels.
 
-Framework : composants logiciels structurels, définissant les fondations du
-Livrable. Les Frameworks sont placés sous licence M.I.T. ou licence
-équivalente. Le Client est investi des droits sur les Frameworks conformément à
-cette licence spécifique.
+Bibliothèques : composants logiciels structurels, définissant les fondations du
+Livrable. Les Bibliothèques sont placées sous licence M.I.T. ou licence
+équivalente. Le Client est investi des droits sur les Bibliothèques
+conformément à cette licence spécifique.
 
 Développements Spécifiques : contenus réalisés spécifiquement par
 {{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client
@@ -236,12 +236,12 @@ l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 
 ### 9.1. Licences
 
-#### 9.1.1. Licence non exclusive sur le Framework
+#### 9.1.1. Licence non exclusive sur la Bibliothèque
 
-{{company.name}} consent au Client, à titre non exclusif, en l’état, une
-licence d’utilisation portant sur le Framework du Livrable. La licence est
-consentie pour le monde entier et pour toutes langues, pour toute la durée de
-protection des droits de propriété intellectuelle.
+{{company.name}} consent au Client, à titre non exclusif, en l’état, des
+licences d’utilisation portant sur les Bibliothèques du Livrable. Les licences
+sont consenties pour le monde entier et pour toutes langues, pour toute la
+durée de protection des droits de propriété intellectuelle.
 
 La rémunération de {{company.name}} au titre de la transmission des droits de
 propriété intellectuelle est forfaitaire.
@@ -259,9 +259,9 @@ de reproduction, de représentation, d’édition, de commercialisation, de
 traduction dont il est titulaire, pour toute la durée de protection des droits
 de propriété intellectuelle et pour le monde entier, par tout procédé, quel
 qu’il soit, connu ou inconnu à ce jour, et notamment par tous les réseaux de
-communication, actuels et futurs, et ce sur tout support, en tout format.
-S’il s’agit de logiciel, la présente licence porte sur le code objet, le code
-source et la documentation du logiciel, {{company.name}} autorisant le Client à
+communication, actuels et futurs, et ce sur tout support, en tout format. S’il
+s’agit de logiciel, la présente licence porte sur le code objet, le code source
+et la documentation du logiciel, {{company.name}} autorisant le Client à
 accéder aux codes du logiciel.
 
 Le client pourra consentir à des sous-licences sur les développements
@@ -274,11 +274,11 @@ que celles stipulées dans le Devis.
 #### 9.1.3. Pull Requests
 
 {{company.name}} et le Client peuvent convenir, par tout moyen, de contribuer à
-l'un des Frameworks en plaçant sous licence libre un Développement Spécifique.
-Le cas échéant, le Développement Spécifique est communiqué par {{company.name}}
-au titulaire du Framework sous forme de Pull Request. Le Client est alors
-investi des droits sur le Framework conformément à la licence stipulée à
-l’article 9.1.1..
+l'une des Bibliothèques en plaçant sous licence libre un Développement
+Spécifique. Le cas échéant, le Développement Spécifique est communiqué par
+{{company.name}} au titulaire de la Bibliothèque sous forme de Pull Request. Le
+Client est alors investi des droits sur la Bibliothèque conformément à la
+licence stipulée à l’article 9.1.1..
 
 #### 9.1.4. Garanties
 
