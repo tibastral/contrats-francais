@@ -240,22 +240,8 @@ l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 
 {{company.name}} consent au Client, à titre non exclusif, en l’état, une
 licence d’utilisation portant sur le Framework du Livrable. La licence est
-consentie pour le monde entier et pour toutes langues, pour la durée spécifiée
-dans le Devis. La licence porte uniquement sur le droit d’exploitation du
-Livrable en ligne, à l’exclusion de :
-
-* toute reproduction de façon permanente ou provisoire du Livrable mis à
-  disposition, en tout ou partie, par tout moyen et sous toute forme, y compris
-  à l'occasion du chargement, de l'affichage, de l'exécution du Livrable ;
-
-* toute traduction, adaptation, arrangement ou modification du Livrable, ainsi
-  que tout export ou fusion de ce dernier avec d'autres applications
-  informatiques.
-
-Les droits d’utilisation du Livrable sont personnels et non cessibles.
-{{company.name}} ne donne pas d’autre garantie que celle de l’existence
-matérielle des droits cédés. Le Client accepte la présente licence
-en l’état.
+consentie pour le monde entier et pour toutes langues, pour toute la durée de
+protection des droits de propriété intellectuelle.
 
 La rémunération de {{company.name}} au titre de la transmission des droits de
 propriété intellectuelle est forfaitaire.
