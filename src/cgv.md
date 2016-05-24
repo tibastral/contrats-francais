@@ -282,10 +282,11 @@ licence stipulée à l’article 9.1.1..
 
 #### 9.1.4. Garanties
 
-{{company.name}} garantit au Client qu’il sera le seul auteur du Livrable et
-qu'à ce titre il sera le seul titulaire de l'ensemble des droits de propriété
-intellectuelle relatifs à ce Livrable et qu’aucun tiers ne pourra prétendre à
-la qualité d’auteur ou de co-auteur du Livrable. {{company.name}} s’engage
+{{company.name}} garantit au Client qu’il sera le seul auteur des
+développements spécifiques et qu'à ce titre il sera le seul titulaire de
+l'ensemble des droits de propriété intellectuelle relatifs à ces développements
+spécifiques et qu’aucun tiers ne pourra prétendre à la qualité d’auteur ou de
+co-auteur de ces développements spécifiques. {{company.name}} s’engage
 notamment à respecter les droits de propriété intellectuelle des tiers,
 notamment les droits d'auteur, les droits sur les dessins et modèles, ainsi que
 les droits sur les brevets et sur les marques.
