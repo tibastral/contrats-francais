@@ -321,10 +321,12 @@ Livrable et à en assurer la maintenance.
 
 ### 11.1. Prix
 
-Le taux horaire ou journalier est celui convenu dans le Devis.
+Les taux horaires ou journaliers sont ceux convenus dans le Devis. La
+facturation est au temps passé sur la base des temps consommés par les
+différents profils sur chaque Itération et a lieu après chaque Itération.
 
-À défaut de stipulation contraire dans le Devis, le paiement interviendra avant
-le commencement de chacune des Itérations.
+À défaut de stipulation contraire dans le Devis, le paiement interviendra au
+maximum 60 jours après chacune des Itérations.
 
 ### 11.2. Rabais – Remise – Ristourne
 
