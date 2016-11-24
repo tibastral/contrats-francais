@@ -48,7 +48,7 @@ du Livrable est livrée par {{company.name}} au Client.
 
 Par le présent contrat, {{company.name}} s’engage à concevoir et à réaliser
 pour le compte du Client un Livrable conformément à la méthode
-[Agile](http://agilemanifesto.org/iso/fr/).
+[Agile](http://agilemanifesto.org/iso/fr/manifesto.html).
 
 
 ## Article 4. Obligations des parties
