@@ -124,7 +124,7 @@ Dans le cadre de l'exploitation du Livrable, {{company.name}} pourra utiliser le
 
 Le Sous-traitant autorise {{company.name}} à ne pas mentionner son nom en qualité d’auteur du Livrable et à consentir elle-même des autorisations aux cessionnaires du Livrable en ce sens.
 
-### 4.5 Rémunération
+### 4.6 Rémunération
 
 La participation proportionnelle du Sous-traitant au produit de l’exploitation de la Sélection ne peut avoir lieu pour une ou plusieurs des raisons suivantes :
 
