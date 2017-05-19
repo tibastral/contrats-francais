@@ -41,14 +41,11 @@ traduction, nouvelle version, ne constituant pas une simple Correction.
 Itération : Cycle de développement aux termes duquel une version fonctionnelle
 du Livrable est livrée par {{company.name}} au Client.
 
-
-
 ## Article 3. Objet du contrat
 
 Par le présent contrat, {{company.name}} s’engage à concevoir et à réaliser
 pour le compte du Client un Livrable conformément à la méthode
 [Agile](http://agilemanifesto.org/iso/fr/manifesto.html).
-
 
 ## Article 4. Obligations des parties
 
@@ -127,7 +124,6 @@ procédera aux Corrections du Livrable, à l’exclusion de toute Évolution.
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
 au Client est considéré comme étant tacitement réceptionnée par celui-ci.
 
-
 ## Article 7. Responsabilité
 
 ### 7.1. Limitation de responsabilité
@@ -167,7 +163,6 @@ de poursuivre ou de ne pas poursuivre le projet avec le Client.
 livraison d’une Itération, sans que cela ne constitue une faute de
 {{company.name}} ou un préjudice pour le Client.
 
-
 ### 7.2. Force majeure et faute du client
 
 {{company.name}} n’engagera pas sa responsabilité en cas de force majeure ou de
@@ -194,7 +189,6 @@ utilisation du Livrable, faute, négligence, omission ou défaillance de sa part
 ou de celle de ses préposés, non-respect des conseils donnés par
 {{company.name}}.
 
-
 ## Article 8. Garanties
 
 ### 8.1. Garanties de {{company.name}}
@@ -213,7 +207,6 @@ Le Client déclare être titulaire de tous les droits et autorisations permettan
 l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 {{company.name}} contre toute action et revendication de tiers du fait des
 Éléments apportés.
-
 
 ## Article 9. Propriété intellectuelle
 
@@ -287,7 +280,6 @@ sous-licences sur les développements spécifiques, seul le Client aura qualité
 pour exercer les actions en contrefaçon et concurrence déloyale relatives aux
 exploitations non autorisées des développements spécifiques.
 
-
 ## Article 10. Évolution - Maintenance
 
 {{company.name}} autorise le Client à effectuer lui-même des Évolutions du
@@ -298,7 +290,6 @@ Livrable à un prestataire, le Client s’engage à proposer en priorité la pri
 en charge de cette prestation à {{company.name}}, qui s’engage en contrepartie
 à proposer au Client des conditions tarifaires similaires à celles consenties
 aux termes du présent contrat.
-
 
 ## Article 11. Prix et modalités de paiement
 
@@ -326,7 +317,6 @@ supplémentaire pour {{company.name}}, les parties conviendront, avant toute
 modification du Plan de travail ou du Cahier des charges, du versement d’une
 somme supplémentaire au profit de {{company.name}}.
 
-
 ## Article 12. Références
 
 Sauf interdiction expresse du Client dans un délai d’un mois à compter de la
@@ -334,14 +324,12 @@ réception du Livrable, {{company.name}} est autorisé à utiliser le nom du
 Client, ainsi que l’image de la page d’accueil du Livrable, dans le cadre de sa
 promotion commerciale et publicitaire.
 
-
 ## Article 13. Réserve de propriété
 
 {{company.name}} se réserve expressément la propriété du Livrable jusqu’au
 paiement intégral de son prix en principal et intérêts. Le Client en deviendra
 toutefois responsable dès sa livraison, le transfert de possession entraînant
 celui des risques.
-
 
 ## Article 14. Non-sollicitation
 
@@ -354,7 +342,6 @@ En cas de non-respect de cette clause, le Client devra verser à
 {{company.name}} à titre de clause pénale, et sans préjudice des éventuels
 dommages-intérêts auxquels pourrait prétendre {{company.name}}, une somme égale
 à la rémunération de {{company.name}} stipulée dans le Devis.
-
 
 ## Article 15. Résiliation
 
