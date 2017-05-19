@@ -4,10 +4,10 @@
 
 Les présentes conditions générales sont applicables entre {{company.name}},
 Entreprise Unipersonnelle à Responsabilité Limitée au capital de
-{{company.capital}} €, enregistrée au RCS de Paris sous n°{{company.rcs}}, dont
-le siège social est sis {{company.address}}, représentée aux fins des présentes
-par {{company.author}} en qualité de gérant, Ci-après dénommée «
-{{company.name}} », et toute personne physique ou morale, particulier ou
+{{company.capital}} €, enregistrée au RCS de Paris sous n°{{company.rcs_number}}
+, dont le siège social est sis {{company.address}}, représentée aux fins des
+présentes par {{company.holder_name}} en qualité de gérant, Ci-après dénommée
+« {{company.name}} », et toute personne physique ou morale, particulier ou
 professionnel, de droit privé ou de droit public, contractant avec
 {{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
 

@@ -1,7 +1,9 @@
 {
   "company": {
     "name": "_NomSociété_"
+  , "holder_name": "_NomReprésentantLégal_"
   , "author": "_NomAuteurDuCode_"
+  , "rcs_number": "_RCS XXX XXX XXX XXX_"
   , "url": "http://url-nomsociete.com"
   , "url_nice": "_url-NomSociété.com_"
   , "hourly_rate": 130
