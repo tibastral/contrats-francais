@@ -1,4 +1,4 @@
-#Conditions Générales d’achat de {{company.name}} applicables à compter du {{cgv.startDate}}
+#Conditions Générales d’achat de {{company.name}} applicables à compter du {{cgv.start_date}}
 
 **ENTRE LES SOUSSIGNES **
 

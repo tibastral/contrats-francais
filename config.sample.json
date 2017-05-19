@@ -18,6 +18,6 @@
   , "prepayment_vat": null
   }
 , "cgv": {
-    "startDate": "1er janvier 2013"
+    "start_date": "1er janvier 2013"
   }
 }
