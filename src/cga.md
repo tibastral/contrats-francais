@@ -1,4 +1,4 @@
-#Conditions Générales d’achat de {{company.name}} applicables à compter du {{cgv.start_date}}
+#Conditions Générales d’achat de {{company.name}} applicables à compter du {{cga.start_date}}
 
 **ENTRE LES SOUSSIGNES **
 
@@ -214,4 +214,4 @@ La présente obligation de confidentialité prend effet à compter de la date de
 
 Le présent Contrat est régi par la loi française, alors même que le Contrat s'exécuterait en tout ou partie à l'étranger.
 
-Tout litige qui s'élèverait à l’occasion du présent Contrat et qui ne pourrait être résolu à l'amiable sera soumis à la compétence des Tribunaux de Paris.
+Tout litige qui s'élèverait à l’occasion du présent Contrat et qui ne pourrait être résolu à l'amiable sera soumis à la compétence des Tribunaux de {{company.rcs_city}}.
