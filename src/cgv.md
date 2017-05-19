@@ -68,11 +68,6 @@ aucune obligation de maintenance ou d’assistance à l’utilisation.
 
 ### 4.2. Obligations et déclarations du Client
 
-{{company.name}} s’engage à concevoir et à réaliser un Livrable fonctionnel par
-Itérations successives. Il devra ainsi apporter les solutions techniques
-permettant de concrétiser l’architecture du Livrable et d’en assurer le bon
-fonctionnement. {{company.name}} est soumis à une obligation de moyens.
-
 Le Client s’engage à réagir dans les meilleurs délais à toute demande de
 {{company.name}} relative à la réalisation de la prestation. Le Client
 reconnaît que son implication et sa collaboration sont nécessaires pour la
@@ -355,12 +350,11 @@ Le fait pour une des parties de ne pas se prévaloir d’un manquement par l’a
 partie à l’une quelconque des obligations visées dans les présentes ne saurait
 être interprété pour l’avenir comme une renonciation à l’obligation en cause.
 
-
 ## Article 16. Loi applicable et juridiction compétente
 
 Le présent contrat est soumis à la loi française.
 
-En cas de litige, la compétence exclusive est attribuée aux tribunaux sur siège
+En cas de litige, la compétence exclusive est attribuée aux tribunaux du siège
 social de {{company.name}}, même pour les procédures d’urgence ou conservatoire
 en référé ou par requête, nonobstant pluralité de défendeurs ou appel en
 garantie.
