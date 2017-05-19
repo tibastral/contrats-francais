@@ -1,9 +1,14 @@
 {
   "company": {
     "name": "_NomSociété_"
-  , "holder_name": "_NomReprésentantLégal_"
-  , "author": "_NomAuteurDuCode_"
+  , "legal_structure": "_StructureJuridiqueSociété_"
+  , "capital": "_CapitalSociété"
+  , "rcs_city": "_VilleRCSSociété"
   , "rcs_number": "_RCS XXX XXX XXX XXX_"
+  , "address": "_AdresseSiegeSocialSociété_"
+  , "holder_name": "_NomReprésentantLégal_"
+  , "holder_role": "_QualitéReprésentantLégal_"
+  , "author": "_NomAuteurDuCode_"
   , "url": "http://url-nomsociete.com"
   , "url_nice": "_url-NomSociété.com_"
   , "hourly_rate": 130

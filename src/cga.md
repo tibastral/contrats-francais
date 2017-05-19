@@ -2,7 +2,7 @@
 
 **ENTRE LES SOUSSIGNES **
 
-**{{company.name}}**, Entreprise Unipersonnelle à Responsabilité Limitée au capital de {{company.capital}} €, enregistrée au RCS de Paris sous n° {{company.rcs_number}}, dont le siège social est sis {{company.address}}, représentée aux fins des présentes par {{company.holder_name}} en qualité de gérant,
+**{{company.name}}**, {{company.legal_structure}} au capital de {{company.capital}} €, enregistrée au RCS de {{company.rcs_city}} sous n° {{company.rcs_number}}, dont le siège social est sis {{company.address}}, représentée aux fins des présentes par {{company.holder_name}} en qualité de {{company.holder_role}},
 
 Ci-après « **_{{company.name}}_**»,
 
