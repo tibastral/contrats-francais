@@ -11,27 +11,27 @@ GEM
       optiflag (~> 0.7)
       redcarpet (~> 3.2)
       wkhtmltopdf-binary (~> 0.9.9.3)
-    github-markup (1.4.0)
+    github-markup (1.6.0)
     handlebars (0.8.0)
       handlebars-source (~> 4.0.5)
       therubyracer (~> 0.12.1)
-    handlebars-source (4.0.5)
-    libv8 (3.16.14.15)
-    mini_portile2 (2.0.0)
-    nokogiri (1.6.7.2)
-      mini_portile2 (~> 2.0.0.rc2)
+    handlebars-source (4.0.8)
+    libv8 (3.16.14.19)
+    mini_portile2 (2.1.0)
+    nokogiri (1.6.8.1)
+      mini_portile2 (~> 2.1.0)
     optiflag (0.7)
-    pdf-core (0.6.1)
-    prawn (2.1.0)
-      pdf-core (~> 0.6.1)
-      ttfunk (~> 1.4.0)
-    rake (11.1.2)
-    redcarpet (3.3.4)
+    pdf-core (0.7.0)
+    prawn (2.2.2)
+      pdf-core (~> 0.7.0)
+      ttfunk (~> 1.5)
+    rake (12.0.0)
+    redcarpet (3.4.0)
     ref (2.0.0)
-    therubyracer (0.12.2)
-      libv8 (~> 3.16.14.0)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
       ref
-    ttfunk (1.4.0)
+    ttfunk (1.5.1)
     wkhtmltopdf-binary (0.9.9.3)
 
 PLATFORMS
@@ -42,6 +42,3 @@ DEPENDENCIES
   handlebars
   prawn
   rake
-
-BUNDLED WITH
-   1.12.1

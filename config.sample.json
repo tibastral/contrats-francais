@@ -1,7 +1,13 @@
 {
   "company": {
     "name": "_NomSociété_"
-  , "description": "_Entreprise Unipersonnelle à Responsabilité Limitée au capital de 1500 €, enregistrée au RCS de Paris sous n° RCS, dont le siège social est sis ADDRESS, représentée aux fins des présentes par GÉRANT en qualité de gérant_"
+  , "legal_structure": "_StructureJuridiqueSociété_"
+  , "capital": "_CapitalSociété"
+  , "rcs_city": "_VilleRCSSociété"
+  , "rcs_number": "_RCS XXX XXX XXX XXX_"
+  , "address": "_AdresseSiegeSocialSociété_"
+  , "holder_name": "_NomReprésentantLégal_"
+  , "holder_role": "_QualitéReprésentantLégal_"
   , "author": "_NomAuteurDuCode_"
   , "url": "http://url-nomsociete.com"
   , "url_nice": "_url-NomSociété.com_"
@@ -18,6 +24,9 @@
   , "prepayment_vat": null
   }
 , "cgv": {
-    "startDate": "1er janvier 2013"
+    "start_date": "1er janvier 2013"
+  }
+, "cga": {
+    "start_date": "1er janvier 2013"
   }
 }
