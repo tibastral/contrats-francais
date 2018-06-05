@@ -1,4 +1,5 @@
-# Conditions Générales de vente de {{company.name}} Applicables à compter du {{cgv.start_date}}
+# Conditions Générales de vente de {{company.name}} (applicables à compter du {{cgv.startDate}})
+
 
 ## Article 1. Champ d’application
 
@@ -10,6 +11,7 @@ est sis {{company.address}}, représentée aux fins des présentes par
 « {{company.name}} », et toute personne physique ou morale, particulier ou
 professionnel, de droit privé ou de droit public, contractant avec
 {{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
+
 
 ## Article 2. Définitions
 
@@ -28,6 +30,16 @@ associé.
 Icebox : spécifications fonctionnelles définies par le Client, sous la forme de
 cas simples et factuels.
 
+Bibliothèques : composants logiciels structurels, définissant les fondations du
+Livrable. Les Bibliothèques sont placées sous licence M.I.T. ou licence
+équivalente. Le Client est investi des droits sur les Bibliothèques
+conformément à cette licence spécifique.
+
+Développements Spécifiques : contenus réalisés spécifiquement par
+{{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client
+est investi des droits sur les développements spécifiques conformément à la
+licence ci-après exposée.
+
 Correction : Toute correction d’erreur sur le Livrable, n’ayant pas d’autre
 finalité que de corriger des dysfonctionnements ou des erreurs.
 
@@ -40,6 +52,7 @@ traduction, nouvelle version, ne constituant pas une simple Correction.
 
 Itération : Cycle de développement aux termes duquel une version fonctionnelle
 du Livrable est livrée par {{company.name}} au Client.
+
 
 ## Article 3. Objet du contrat
 
@@ -68,6 +81,31 @@ aucune obligation de maintenance ou d’assistance à l’utilisation.
 
 ### 4.2. Obligations et déclarations du Client
 
+#### 4.2.1. Information du Client
+
+Le Client déclare avoir reçu de {{company.name}} toutes les explications et
+précisions utiles pouvant lui permettre d’utiliser le Livrable objet du présent
+contrat.
+
+Le Client reconnaît que ses besoins et les prestations proposées par
+{{company.name}} sont en adéquation et qu’il a souscrit au contrat en
+connaissance de cause et en disposant de toutes les informations nécessaires
+lui permettant de produire un consentement libre et éclairé.
+
+Le Client s’engage à informer {{company.name}} de toute circonstance
+susceptible d’affecter l’exécution du présent contrat dès qu’il en a
+connaissance.
+
+#### 4.2.2. Fourniture des informations
+
+Le Client s'engage à réagir et à fournir à Milesrock toutes les informations et
+tous les documents nécessaires à la réalisation des prestations dans un délai
+de 24h. Le Client doit soumettre à Milesrock des informations et/ou documents
+lisibles et compréhensibles. A défaut, Milesrock peut décider de ne pas prendre
+en charge ou de reporter d’exécution de la prestation.
+
+#### 4.2.5. Réactivité
+
 Le Client s’engage à réagir dans les meilleurs délais à toute demande de
 {{company.name}} relative à la réalisation de la prestation. Le Client
 reconnaît que son implication et sa collaboration sont nécessaires pour la
@@ -75,6 +113,7 @@ bonne exécution du contrat. Tout retard ou défaut de diligence du Client pourr
 entraîner un report de livraison de {{company.name}} supérieur d’une semaine à
 la durée dudit retard ou défaut de diligence du Client, sans que ce report ne
 puisse constituer une faute de {{company.name}} ou un préjudice pour le Client.
+
 
 ## Article 5. Méthode : développements itératifs
 
@@ -100,12 +139,9 @@ par {{company.name}}.
 Le cycle de développement peut commencer lorsque les parties considèrent que la
 charge de travail est suffisante pour l’Itération.
 
-Aux termes de l’Itération, le Livrable est livré au Client et réceptionné
-conformément à l’article 6 des présentes.
+Au terme de l’Itération, le Livrable est livré au Client et réceptionné
+conformément à l’Article "Procédure de réception" des présentes.
 
-À l’issue de l’Itération, un bilan est effectué entre les parties, afin de
-savoir si une nouvelle Itération est nécessaire pour la mise en production du
-Livrable.
 
 ## Article 6. Procédure de réception
 
@@ -117,7 +153,7 @@ Si le Client émet des réserves dans le délai précité, {{company.name}}
 procédera aux Corrections du Livrable, à l’exclusion de toute Évolution.
 
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
-au Client est considéré comme étant tacitement réceptionnée par celui-ci.
+au Client est considéré comme étant tacitement réceptionné par celui-ci.
 
 ## Article 7. Responsabilité
 
@@ -137,11 +173,6 @@ apparents et les vices apparents. Toute action à l’encontre de
 {{company.name}}, notamment au titre d’un défaut de conformité caché ou d’un
 vice caché, est prescrite dans le délai d’un an à compter de la réception
 définitive du Livrable par le Client.
-
-{{company.name}} exclut toute responsabilité au titre de la réservation ou de
-l’utilisation d’un signe distinctif (nom de domaine, marque, titre, nom
-commercial, dénomination sociale…) à laquelle le Client lui aurait demandé de
-procéder.
 
 La responsabilité de {{company.name}} est limitée au préjudice direct,
 personnel et certain subi par le Client et lié à la défaillance en cause.
@@ -168,7 +199,7 @@ faute du Client, telles que définies ci-après :
 Sera considéré comme un cas de force majeure opposable au Client tout
 empêchement, limitation ou dérangement du fait d’incendie, d’épidémie,
 d’explosion, de tremblement de terre, de fluctuations de la bande passante, de
-manquement imputable au fournisseur d’accès, de défaillance des réseaux de
+manquement imputable au fournisseur d’accès , de défaillance des réseaux de
 transmission, d’effondrement des installations, d’utilisation illicite ou
 frauduleuse des mots de passe, codes ou références fournis au Client, de
 piratage informatique, d’une faille de sécurité imputable à l’hébergeur du
@@ -205,97 +236,100 @@ l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 
 ## Article 9. Propriété intellectuelle
 
-### 9.1. Titularité des droits sur le Livrable
+### 9.1. Licences
 
-Le Livrable est composé le cas échéant :
+#### 9.1.1. Licence non exclusive sur la Bibliothèque
 
-* d’un Framework : composant logiciel structurel, définissant les fondations du
-  Livrable. Le framework est placé sous licence spécifique. Le Client est
-  investi des droits sur le framework conformément à cette licence spécifique.
+{{company.name}} consent au Client, à titre non exclusif, en l’état, des
+licences d’utilisation portant sur les Bibliothèques du Livrable. Les licences
+sont consenties pour le monde entier et pour toutes langues, pour toute la
+durée de protection des droits de propriété intellectuelle.
 
-* des Développements Spécifiques : contenus réalisés spécifiquement par
-  {{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client
-  est investi des droits sur les développements spécifiques conformément à
-  l’article 9.2 des présentes conditions générales ;
+La rémunération de {{company.name}} au titre de la transmission des droits de
+propriété intellectuelle est forfaitaire.
 
-* des Éléments apportés : contenus de toute nature (codes, textes, images,
-  sons…) insérés dans le Livrable, soit par {{company.name}} à la demande du
-  Client, soit par le Client lui-même. Le Client reste titulaire des droits sur
-  les Éléments apportés qu’il met à la disposition de {{company.name}} pour la
-  réalisation de la prestation.
+{{company.name}} ne pourra prétendre au titre de sa prestation et de
+transmission des droits de propriété intellectuelle à d’autre rémunération que
+celle stipulée dans le Devis.
 
-### 9.2. Licence exclusive sur le Livrable
+#### 9.1.2 Licence exclusive sur les Développements Spécifiques
 
 À défaut de mention contraire dans le Devis, {{company.name}} consent au Client
 à titre exclusif une licence portant sur l’intégralité des droits patrimoniaux
-sur les développements spécifiques, et notamment sur les droits d’exploitation,
+sur les Développements Spécifiques, et notamment sur les droits d’exploitation,
 de reproduction, de représentation, d’édition, de commercialisation, de
 traduction dont il est titulaire, pour toute la durée de protection des droits
 de propriété intellectuelle et pour le monde entier, par tout procédé, quel
 qu’il soit, connu ou inconnu à ce jour, et notamment par tous les réseaux de
-communication, actuels et futurs, et ce sur tout support, en tout format.
-
-S’il s’agit de logiciel, la présente licence porte sur le code objet, le code
-source et la documentation du logiciel, {{company.name}} autorisant le Client à
+communication, actuels et futurs, et ce sur tout support, en tout format. S’il
+s’agit de logiciel, la présente licence porte sur le code objet, le code source
+et la documentation du logiciel, {{company.name}} autorisant le Client à
 accéder aux codes du logiciel.
 
-À défaut de mention contraire dans le Devis, le Client ne pourra pas consentir
-de sous-licences sur les développements spécifiques.
-
-### 9.3. Rémunération au titre de la licence
-
-La rémunération de {{company.name}} au titre de la licence des droits d’auteur
-sur les développements spécifiques est forfaitaire.
-
+Le client pourra consentir à des sous-licences sur les développements
+spécifiques. La rémunération de {{company.name}} au titre de la licence des
+droits d’auteur sur les développements spécifiques est forfaitaire.
 {{company.name}} ne pourra prétendre au titre de sa prestation et de la licence
 de droit d’auteur sur les développements spécifiques à d’autres rémunérations
 que celles stipulées dans le Devis.
 
-### 9.4. Droit de paternité
+#### 9.1.3. Pull Requests
+
+{{company.name}} et le Client peuvent convenir, par tout moyen, de contribuer à
+l'une des Bibliothèques en plaçant sous licence libre un Développement
+Spécifique. Le cas échéant, le Développement Spécifique est communiqué par
+{{company.name}} au titulaire de la Bibliothèque sous forme de Pull Request. Le
+Client est alors investi des droits sur la Bibliothèque conformément à la
+licence stipulée à l’article 9.1.1..
+
+#### 9.1.4. Garanties
+
+{{company.name}} garantit au Client qu’il sera le seul auteur des
+développements spécifiques et qu'à ce titre il sera le seul titulaire de
+l'ensemble des droits de propriété intellectuelle relatifs à ces développements
+spécifiques et qu’aucun tiers ne pourra prétendre à la qualité d’auteur ou de
+co-auteur de ces développements spécifiques. {{company.name}} s’engage
+notamment à respecter les droits de propriété intellectuelle des tiers,
+notamment les droits d'auteur, les droits sur les dessins et modèles, ainsi que
+les droits sur les brevets et sur les marques.
+
+{{company.name}} garantit au Client la jouissance paisible des droits cédés en
+vertu du présent contrat. {{company.name}} garantit le Client contre toute
+action, réclamation, revendication ou opposition de la part de toute personne
+invoquant un droit de propriété intellectuelle ou un acte de concurrence
+déloyale et/ou parasitaire, du fait de la Prestation.
+
+### 9.2. Droit de paternité
 
 À défaut de mention contraire dans le Devis, le nom de {{company.author}},
 auteur originaire du Logiciel, devra être associé au Livrable au cours de son
 exploitation. S’il s’agit d’un site web, le nom de {{company.author}}
 apparaîtra :
 
-sur une page appelé « Crédit », « Informations légales » ou « Mentions légales
+sur une page appelée « Crédit », « Informations légales » ou « Mentions légales
 » accessible depuis la page d’accueil du site et comportant un lien hypertexte
 vers [{{company.url_nice}}]({{company.url}});
 
-dans le header du code html des pages web du site sous la balise « Creator ».
-
-### 9.5. Actions en justice
-
-À défaut de mention contraire dans le Devis, seule {{company.name}} aura
-qualité pour exercer les actions en contrefaçon et concurrence déloyale
-relatives aux exploitations non autorisées des développements spécifiques.
-
-Toutefois, lorsque {{company.name}} aura autorisé le Client à consentir des
-sous-licences sur les développements spécifiques, seul le Client aura qualité
-pour exercer les actions en contrefaçon et concurrence déloyale relatives aux
-exploitations non autorisées des développements spécifiques.
+dans le header du code HTML des pages web du site sous la balise « Creator ».
 
 ## Article 10. Évolution - Maintenance
 
 {{company.name}} autorise le Client à effectuer lui-même des Évolutions du
 Livrable et à en assurer la maintenance.
 
-Toutefois, si le Client souhaite confier les Évolutions ou la maintenance du
-Livrable à un prestataire, le Client s’engage à proposer en priorité la prise
-en charge de cette prestation à {{company.name}}, qui s’engage en contrepartie
-à proposer au Client des conditions tarifaires similaires à celles consenties
-aux termes du présent contrat.
 
 ## Article 11. Prix et modalités de paiement
 
 ### 11.1. Prix
 
-Le taux horaire ou journalier est celui convenu dans le Devis.
+Les taux horaires ou journaliers sont ceux convenus dans le Devis. La
+facturation est au temps passé sur la base des temps consommés par les
+différents profils sur chaque Itération et a lieu après chaque Itération.
 
-À défaut de stipulation contraire dans le Devis, le paiement interviendra avant
-le commencement de chacune des Itérations
+À défaut de stipulation contraire dans le Devis, le paiement interviendra au
+maximum 60 jours après chacune des Itérations.
 
-### 11.2. Rabais – Remise - Ristourne
+### 11.2. Rabais – Remise – Ristourne
 
 Sauf accord exprès des Parties, aucun rabais, remise, ristourne ou escompte ne
 sera accordé au Client.
@@ -328,15 +362,17 @@ celui des risques.
 
 ## Article 14. Non-sollicitation
 
-Afin de garantir l’équilibre économique du Contrat, le Client s’engage à ne pas
-embaucher, tenter d’embaucher ou faire travailler directement ou indirectement
-un salarié, un collaborateur ou un sous-traitant de {{company.name}} durant
-l’exécution du présent contrat et jusqu’à 5 ans après la réception du Livrable.
+Afin de garantir l’équilibre économique du Contrat, {{company.name}} et le
+Client s’engagent à ne pas embaucher, tenter d’embaucher ou faire travailler
+directement ou indirectement un salarié, un collaborateur ou un sous-traitant
+de l’autre partie durant l’exécution du présent contrat et jusqu’à 5 ans après
+la réception du Livrable.
 
-En cas de non-respect de cette clause, le Client devra verser à
-{{company.name}} à titre de clause pénale, et sans préjudice des éventuels
-dommages-intérêts auxquels pourrait prétendre {{company.name}}, une somme égale
-à la rémunération de {{company.name}} stipulée dans le Devis.
+En cas de non-respect de cette clause, la partie n’ayant pas respecté la
+présente clause devra verser à l’autre à titre de clause pénale, et sans
+préjudice des éventuels dommages-intérêts auxquels pourrait prétendre la partie
+lésée, une somme égale à la rémunération de {{company.name}} stipulée dans le
+Devis.
 
 ## Article 15. Résiliation
 
