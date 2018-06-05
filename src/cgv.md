@@ -98,10 +98,10 @@ connaissance.
 
 #### 4.2.2. Fourniture des informations
 
-Le Client s'engage à réagir et à fournir à Milesrock toutes les informations et
+Le Client s'engage à réagir et à fournir à {{company.name}} toutes les informations et
 tous les documents nécessaires à la réalisation des prestations dans un délai
-de 24h. Le Client doit soumettre à Milesrock des informations et/ou documents
-lisibles et compréhensibles. A défaut, Milesrock peut décider de ne pas prendre
+de 24h. Le Client doit soumettre à {{company.name}} des informations et/ou documents
+lisibles et compréhensibles. A défaut, {{company.name}} peut décider de ne pas prendre
 en charge ou de reporter d’exécution de la prestation.
 
 #### 4.2.5. Réactivité
