@@ -1,4 +1,4 @@
-# Conditions Générales de vente de {{company.name}} (applicables à compter du {{cgv.startDate}})
+# Conditions Générales de vente de {{company.name}} (applicables à compter du {{cgv.start_date}})
 
 
 ## Article 1. Champ d’application
