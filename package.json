@@ -1,0 +1,29 @@
+{
+  "name": "contrats-francais",
+  "version": "1.0.0",
+  "description": "Ce dépôt est une première version de mes contrats rédigés avec mon avocat.",
+  "main": "generateContracts.js",
+  "scripts": {
+    "build": "node generateContracts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibastral/contrats-francais.git"
+  },
+  "keywords": [
+    "contrats",
+    "francais",
+    "agile"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibastral/contrats-francais/issues"
+  },
+  "homepage": "https://github.com/tibastral/contrats-francais#readme",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "mdpdf": "^1.7.3"
+  }
+}
