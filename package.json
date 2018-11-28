@@ -5,6 +5,7 @@
   "main": "generateContracts.js",
   "scripts": {
     "build": "node generateContracts.js",
+    "debug": "node generateContracts.js --debug",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

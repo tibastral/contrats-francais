@@ -3,6 +3,9 @@ const mdpdf = require('mdpdf');
 const path = require('path');
 const fs = require('fs');
 const config = require('./config.json');
+const args = {
+  debug: process.argv.includes('--debug')
+};
 
 function generatePdf (fileNameWithoutExt) {
   const fileNameCompiled = fileNameWithoutExt + '__COMPILED.md';
@@ -15,7 +18,7 @@ function generatePdf (fileNameWithoutExt) {
   return mdpdf.convert({
     source: fileCompiledPath,
     destination: path.join(__dirname, `/contracts/${fileNameWithoutExt}.pdf`),
-    // debug: path.join(__dirname, `${fileNameWithoutExt}.html`), //useful if you want to check
+    debug: args.debug && path.join(__dirname, `/contracts/${fileNameWithoutExt}.html`),
     styles: path.join(__dirname, 'md-style.css'),
     pdf: {
       format: 'A4',
