@@ -25,8 +25,12 @@
   }
 , "cgv": {
     "start_date": "1er janvier 2013"
+  , "non_solicitation_years": 5
   }
 , "cga": {
     "start_date": "1er janvier 2013"
+  }
+, "cp": {
+  "confidentiality_years": 10
   }
 }

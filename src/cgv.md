@@ -365,8 +365,8 @@ celui des risques.
 Afin de garantir l’équilibre économique du Contrat, {{company.name}} et le
 Client s’engagent à ne pas embaucher, tenter d’embaucher ou faire travailler
 directement ou indirectement un salarié, un collaborateur ou un sous-traitant
-de l’autre partie durant l’exécution du présent contrat et jusqu’à 5 ans après
-la réception du Livrable.
+de l’autre partie durant l’exécution du présent contrat et jusqu’à
+{{cgv.non_solicitation_years}} ans après la réception du Livrable.
 
 En cas de non-respect de cette clause, la partie n’ayant pas respecté la
 présente clause devra verser à l’autre à titre de clause pénale, et sans

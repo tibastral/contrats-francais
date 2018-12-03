@@ -40,7 +40,7 @@ sous-traitants et tiers contractants.
 
 La présente obligation de confidentialité prend effet à compter de la date de
 l’acceptation des présentes Conditions générales par le Client. Elle est
-valable pour une durée de 10 ans.
+valable pour une durée de {{cp.confidentiality_years}} ans.
 
 Les présentes stipulations constituent les Conditions particulières du contrat
 de développement conclu entre les Parties.
