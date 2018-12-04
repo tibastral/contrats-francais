@@ -1,6 +1,6 @@
 {
-  "company": {
-    "name": "_NomSociété_"
+  "company":
+  { "name": "_NomSociété_"
   , "legal_structure": "_StructureJuridiqueSociété_"
   , "capital": "_CapitalSociété"
   , "rcs_city": "_VilleRCSSociété"
@@ -14,23 +14,23 @@
   , "hourly_rate": 130
   , "hourly_rate_legend": "euros HT / heures"
   }
-, "client": {
-    "description": "La société X, Société par actions simplifiée au capital de  Y euros, dont le siège social est sis PAR LÀ, immatriculée sous le n° Z, représentée par A,"
+, "client":
+  { "description": "La société X, Société par actions simplifiée au capital de  Y euros, dont le siège social est sis PAR LÀ, immatriculée sous le n° Z, représentée par A,"
   }
-, "contract": {
-    "duration": 50
+, "contract":
+  { "duration": 50
   , "duration_unit": "heures"
   , "prepayment_novat": null
   , "prepayment_vat": null
   }
-, "cgv": {
-    "start_date": "1er janvier 2013"
+, "cgv":
+  { "start_date": "1er janvier 2013"
   , "non_solicitation_years": 5
   }
-, "cga": {
-    "start_date": "1er janvier 2013"
+, "cga":
+  { "start_date": "1er janvier 2013"
   }
 , "cp": {
-  "confidentiality_years": 10
+  { "confidentiality_years": 10
   }
 }
