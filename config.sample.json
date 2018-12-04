@@ -30,7 +30,7 @@
 , "cga":
   { "start_date": "1er janvier 2013"
   }
-, "cp": {
+, "cp":
   { "confidentiality_years": 10
   }
 }
