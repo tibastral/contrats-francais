@@ -6,7 +6,7 @@ Ce dépôt est une première version de mes contrats rédigés avec mon avocat.
 
 Pour l'instant, ce sont des contrats qui fonctionnent plutôt bien avec
 mes clients actuels. Ces contrats sont bien adaptés pour le travail à l'heure
-avec des clients, en temps que freelance.
+avec des clients, en tant que freelance.
 
 N'hésitez pas à me faire des retours (soit par pull request, soit par DM)
 
