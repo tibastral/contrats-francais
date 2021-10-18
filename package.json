@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/tibastral/contrats-francais#readme",
   "dependencies": {
-    "handlebars": "^4.0.12",
-    "mdpdf": "^1.7.3"
+    "handlebars": "^4.7.7",
+    "mdpdf": "^2.1.2"
   }
 }

@@ -39,6 +39,6 @@ function generatePdf (fileNameWithoutExt) {
     .then(() => fs.unlinkSync(fileCompiledPath));
 }
 
-generatePdf('cgv');
-generatePdf('cp');
-generatePdf('cga');
+generatePdf('cgv')
+  .then(() => generatePdf('cp'))
+  .then(() => generatePdf('cga'));
